@@ -12,7 +12,7 @@
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumcheekascend/", 
   "author": "bumcheekcity, Winterbay", 
   "name": "Bumcheekcend", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?4963-bumcheekcend-ash-A-zero-setup-semi-automated-ascension-script!", 
   "shortDesc": "Automatically script an entire ascension", 
   "category": "adventure", 
   "longDesc": "Automatically script an entire ascension"
@@ -21,7 +21,7 @@
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumpork/", 
   "author": "bumcheekcity", 
   "name": "BumPork", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?6861-Automatic-Porko!", 
   "shortDesc": "Automatically play Porko", 
   "category": "adventure", 
   "longDesc": "Automatically play Porko"
@@ -30,7 +30,7 @@
   "repo": "https://svn.code.sf.net/p/bale/counterchecker/code/", 
   "author": "Bale", 
   "name": "CounterChecker", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2519-CounterChecker-Wormwood-Semi-rares-Dance-Cards-and-more", 
   "shortDesc": "Manage automation for KoLmafia counters", 
   "category": "adventure", 
   "longDesc": "Manage automation for KoLmafia counters"
@@ -39,7 +39,7 @@
   "repo": "https://svn.code.sf.net/p/mafia-harvest/code/", 
   "author": "Ioeth, Banana Lord", 
   "name": "Harvest", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?7015-Harvest-%96-A-highly-customisable-farming-script", 
   "shortDesc": "A highly customizable KoL farming script", 
   "category": "adventure", 
   "longDesc": "A highly customizable KoL farming script"
@@ -48,7 +48,7 @@
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/farm/code/", 
   "author": "Winterbay, dj_d", 
   "name": "Make Meat Fast", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2567-Make-meat-fast", 
   "shortDesc": "Automates item farming based on current mall values", 
   "category": "adventure", 
   "longDesc": "Automates item farming based on current mall values"
@@ -57,7 +57,7 @@
   "repo": "https://svn.code.sf.net/p/slyz-nemesis/code/", 
   "author": "slyz", 
   "name": "Nemesis.ash", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?4761-Nemesis-quest-script", 
   "shortDesc": "Automates the nemesis quest", 
   "category": "adventure", 
   "longDesc": "Automates the nemesis quest"
@@ -66,7 +66,7 @@
   "repo": "svn://svn.code.sf.net/p/wrldwzrd89-mafia-scripts/code/trunk/pandamonium-quest/", 
   "author": "wrldwzrd89", 
   "name": "PandamoniumQuest", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13732-wrldwzrd89-s-PandamoniumQuest-ash-automated-steel-organ", 
   "shortDesc": "Automates the Pandamonium Quest for your Steel Organ", 
   "category": "adventure", 
   "longDesc": "Automates the Pandamonium Quest for your Steel Organ"
@@ -75,7 +75,7 @@
   "repo": "https://svn.code.sf.net/p/guyymafia/code/porkfuture/", 
   "author": "guyy", 
   "name": "Pork to the Future", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?12625-Pork-to-the-Future-Cyrus-Hyboria-Future-and-Wumpus!", 
   "shortDesc": "Automates the agua de vida quests", 
   "category": "adventure", 
   "longDesc": "Automates the agua de vida quests"
@@ -84,7 +84,7 @@
   "repo": "https://svn.code.sf.net/p/therazekolmafia/thesea/code/", 
   "author": "Theraze", 
   "name": "The Sea", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?8708-TheSea-ash-Automated-Underwater-Quests", 
   "shortDesc": "Automates all underwater quests", 
   "category": "adventure", 
   "longDesc": "Automates all underwater quests"
@@ -93,7 +93,7 @@
   "repo": "https://svn.code.sf.net/p/slimetube/code/", 
   "author": "Alhifar", 
   "name": "Slime Tube", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2596-Slime-Tube-Adventuring-Script", 
   "shortDesc": "Automates the Slime Tube", 
   "category": "adventure", 
   "longDesc": "Automates the Slime Tube"
@@ -102,7 +102,7 @@
   "repo": "https://svn.code.sf.net/p/guyymafia/code/tricktreat/", 
   "author": "guyy", 
   "name": "TrickTreat", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13890-Trick-Or-Treating-script", 
   "shortDesc": "Automates Halloween Trick or Treating", 
   "category": "adventure", 
   "longDesc": "Automates Halloween Trick or Treating"
@@ -111,7 +111,7 @@
   "repo": "https://svn.code.sf.net/p/acquirebuff/code/", 
   "author": "Rinn", 
   "name": "acquireBuff", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?4048-acquireBuff-Get-a-buff-from-a-buffbot", 
   "shortDesc": "Get a buff from a buffbot", 
   "category": "action", 
   "longDesc": "Get a buff from a buffbot"
@@ -120,7 +120,7 @@
   "repo": "http://svn.code.sf.net/p/rlbond86-mafia-scripts/code/auto_mushroom/trunk/", 
   "author": "rlbond86", 
   "name": "Auto Mushroom", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?9854-auto_mushroom-the-perfect-mushroom-growing-script", 
   "shortDesc": "Automatically farms mushrooms from Degrassi Knoll", 
   "category": "action", 
   "longDesc": "Automatically farms mushrooms from Degrassi Knoll"
@@ -129,7 +129,7 @@
   "repo": "https://svn.code.sf.net/p/guyymafia/code/dreaddrunk/", 
   "author": "guyy", 
   "name": "DreadDrunk", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?12975-Carriageman-Feeder", 
   "shortDesc": "Gives booze to the Dreadsylvania Carriageman", 
   "category": "action", 
   "longDesc": "Gives booze to the Dreadsylvania Carriageman"
@@ -138,7 +138,7 @@
   "repo": "https://svn.code.sf.net/p/therazekolmafia/eatdrink/code/", 
   "author": "Theraze, dj_d", 
   "name": "EatDrink", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?1519-EatDrink-ash-Optimize-your-daily-diet", 
   "shortDesc": "Optimize your daily diet", 
   "category": "action", 
   "longDesc": "Optimize your daily diet"
@@ -147,7 +147,7 @@
   "repo": "https://svn.code.sf.net/p/therazekolmafia/getskill/code/", 
   "author": "Theraze & kitsunenine", 
   "name": "Get Skill", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?4302-Get_skill-ash-CLI-accessible-skill-acquisition", 
   "shortDesc": "CLI accessible skill acquisition", 
   "category": "action", 
   "longDesc": "CLI accessible skill acquisition"
@@ -156,7 +156,7 @@
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/shop/code/", 
   "author": "fronobulax", 
   "name": "Manage Store", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?9947-ManageStore-and-CFStat-Weed-out-your-store", 
   "shortDesc": "Autosell or kBay items in your store that don't sell", 
   "category": "action", 
   "longDesc": "Autosell or kBay items in your store that don't sell"
@@ -165,7 +165,7 @@
   "repo": "https://svn.code.sf.net/p/bale/ocd/code/", 
   "author": "Bale", 
   "name": "OCD Inventory Control", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?1818-OCD-Inventory-control", 
   "shortDesc": "Complete inventory control system", 
   "category": "action", 
   "longDesc": "Complete inventory control system"
@@ -174,7 +174,7 @@
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/sushi/code/", 
   "author": "Winterbay", 
   "name": "Sushi", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?5767-Best-sushi-for-profit", 
   "shortDesc": "Eats best sushi for profit", 
   "category": "action", 
   "longDesc": "Eats best sushi for profit"
@@ -183,7 +183,7 @@
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
   "author": "Bale", 
   "name": "Adventure Advisor", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?4367-Adventure-Advisor", 
   "shortDesc": "Advice about adventure locations", 
   "category": "information", 
   "longDesc": "Advice about adventure locations"
@@ -192,7 +192,7 @@
   "repo": "https://svn.code.sf.net/p/therazekolmafia/canadv/code/", 
   "author": "Theraze, zarqon", 
   "name": "CanAdv", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2027-CanAdv-check-whether-you-can-adventure-at-a-given-location", 
   "shortDesc": "Check whether you can adventure at a given location", 
   "category": "information", 
   "longDesc": "Check whether you can adventure at a given location"
@@ -201,7 +201,7 @@
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
   "author": "fronobulax", 
   "name": "CFStat", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?9947-ManageStore-and-CFStat-Weed-out-your-store", 
   "shortDesc": "Fetches and caches price and sales volume from Coldfront", 
   "category": "information", 
   "longDesc": "Fetches and caches price and sales volume from Coldfront"
@@ -210,7 +210,7 @@
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/dcq/code/", 
   "author": "fronobulax", 
   "name": "DCQuest", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?3640-DCQuest", 
   "shortDesc": "Assists completionists in managing their display case", 
   "category": "information", 
   "longDesc": "Assists completionists in managing their display case"
@@ -219,7 +219,7 @@
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/snapshot", 
   "author": "bumcheekcity", 
   "name": "Easy Snapshot Maker", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?3001-bumcheekcity-s-Easy-Snapshot-Maker", 
   "shortDesc": "Take a snapshot of your character to display", 
   "category": "information", 
   "longDesc": "Take a snapshot of your character to display"
@@ -228,7 +228,7 @@
   "repo": "https://github.com/Ezandora/Guide/branches/Release/", 
   "author": "Ezandora", 
   "name": "Guide", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?14784-Guide", 
   "shortDesc": "Complete Ascension Guide", 
   "category": "information", 
   "longDesc": "Complete Ascension Guide"
@@ -237,7 +237,7 @@
   "repo": "http://svn.code.sf.net/p/missingmanuel/code/trunk/", 
   "author": "Turing", 
   "name": "Missing Manuel", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?11428-missingManuel-ash-Yet-Another-Manuel-Script!", 
   "shortDesc": "Missing Manuel factoids!", 
   "category": "information", 
   "longDesc": "Identifies the monsters that you still need Manuel factoids for"
@@ -246,7 +246,7 @@
   "repo": "https://svn.code.sf.net/p/psychoseamatic/code/", 
   "author": "zarqon", 
   "name": "Psychose-a-Matic", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13293-Psychose-a-Matic-one-stop-NPC-psychiatric-management", 
   "shortDesc": "One-stop psychoanalytic jar management", 
   "category": "information", 
   "longDesc": "One-stop psychoanalytic jar management"
@@ -255,7 +255,7 @@
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/task_list/trunk/", 
   "author": "rlbond86", 
   "name": "Relay Task List", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?14400-Relay-Task-List-(Programmable!)", 
   "shortDesc": "The ultimate \"To Do\" list!", 
   "category": "information", 
   "longDesc": "The ultimate \"To Do\" list!"
@@ -264,7 +264,7 @@
   "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/planner/", 
   "author": "Almighty Sapling", 
   "name": "Skill Planner/CS Tracker", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?5657-Skill-CS-planner", 
   "shortDesc": "Relay script detailing the characters skills and CS", 
   "category": "information", 
   "longDesc": "Relay script detailing the characters skills and CS"
@@ -273,7 +273,7 @@
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/cocktailmax/trunk/", 
   "author": "rlbond86", 
   "name": "Superhuman Cocktailcrafting maximizer", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?11488-Superhuman-Cocktailcrafting-maximizer", 
   "shortDesc": "Calculates which drinks to superhumanly cocktailcraft", 
   "category": "information", 
   "longDesc": "Calculates which drinks to superhumanly cocktailcraft"
@@ -282,25 +282,16 @@
   "repo": "https://svn.code.sf.net/p/towerchecker/code/", 
   "author": "lostcalpolydude", 
   "name": "Tower Checker", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?9381-Tower-Checker", 
   "shortDesc": "Naughty Sorceress' Tower checklist", 
   "category": "information", 
   "longDesc": "Shows which items you still need for the Naughty Sorceress' Tower"
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
-  "author": "Bale, Chez", 
-  "name": "CHIT", 
-  "forumThread": "", 
-  "shortDesc": "Character Pane Replacement", 
-  "category": "relay", 
-  "longDesc": "This is a character pane replacement.  It is shiny."
- }, 
- {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
   "author": "rlbond86", 
   "name": "Bounty Hunter Helper", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?10991-Bounty-Hunter-Helper", 
   "shortDesc": "Shows average number of turns to complete available bounties", 
   "category": "relay", 
   "longDesc": "Shows average number of turns to complete available bounties"
@@ -309,16 +300,25 @@
   "repo": "https://svn.code.sf.net/p/guyymafia/code/buttonfrenzy/", 
   "author": "guyy", 
   "name": "buttonFrenzy", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?12692-buttonFrenzy-Betterized-stores", 
   "shortDesc": "Improves buttons for all stores", 
   "category": "relay", 
   "longDesc": "Improves buttons for all stores"
  }, 
- {
+  {
+  "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
+  "author": "Bale, Chez", 
+  "name": "CHIT", 
+  "forumThread": "http://kolmafia.us/showthread.php?7594-Character-Info-Toolbox", 
+  "shortDesc": "Character Pane Replacement", 
+  "category": "relay", 
+  "longDesc": "This skins your left pane to make everything easier to see at the same time. It adds a lot of great tools like an outfit switcher and Florist Plant control. It is also so beautifully shiny that your entire life will be better."
+ }, 
+{
   "repo": "https://svn.code.sf.net/p/relay-charsheet/code/", 
   "author": "Heeheehee, Theraze, Rinn", 
   "name": "Charsheet: Skills by Class", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?1578-charsheet-php-Group-Skills-by-Character-Class", 
   "shortDesc": "Groups skills by class on the charsheet", 
   "category": "relay", 
   "longDesc": "Groups skills by class on the charsheet"
@@ -327,16 +327,16 @@
   "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/raidlogs/", 
   "author": "bordemstirs", 
   "name": "Clan Raidlog Parser", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?8052-raidlog-override-a-la-Dr-Evi1", 
   "shortDesc": "Parse your clan dungeon Raidlogs", 
   "category": "relay", 
-  "longDesc": "Parse your clan dungeon Raidlogs"
+  "longDesc": "Makes your clan dungeons like Hobopolis and Dreadsylvania a lot more friendly. It is the KoLmafia version of Dr.Evi1's famous greasemonkey script."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/enhanced_inventory_spoilers/trunk/", 
   "author": "rlbond86, ckb", 
   "name": "Enhanced Inventory Spoilers", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?10005-Enhanced-Inventory-Spoilers", 
   "shortDesc": "Shows item effects/enchantments in inventory", 
   "category": "relay", 
   "longDesc": "Shows item effects/enchantments in inventory"
@@ -345,7 +345,7 @@
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/fax_tell/trunk/", 
   "author": "rlbond86", 
   "name": "Fax Identification", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?11247-Tell-you-what-you-got-in-the-fax-machine-1-0", 
   "shortDesc": "Tells you what you got from the fax machine", 
   "category": "relay", 
   "longDesc": "Tells you what you got from the fax machine"
@@ -354,7 +354,7 @@
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/better_trainer/trunk/", 
   "author": "rlbond86", 
   "name": "Improved Guild Trainer", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13972-Improved-Guild-Trainer", 
   "shortDesc": "Shows skill descriptions for all these newfangled skills", 
   "category": "relay", 
   "longDesc": "Shows skill descriptions for all these newfangled skills"
@@ -363,7 +363,7 @@
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/modular_choice_override/trunk/", 
   "author": "rlbond86", 
   "name": "Modular Choice Override", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?11264-Modular-Choice-Override", 
   "shortDesc": "Allows overriding of choice adventures", 
   "category": "relay", 
   "longDesc": "Allows overriding of choice adventures"
@@ -372,16 +372,16 @@
   "repo": "https://svn.code.sf.net/p/bale/relay/code/Monster_Manuel_Improvement/", 
   "author": "Bale", 
   "name": "Monster Manuel: Improved", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?11388-Monster-Manuel-Improved", 
   "shortDesc": "Lets big monsters be big in KoL's Monster Manuel", 
   "category": "relay", 
-  "longDesc": "Lets big monsters be big in KoL's Monster Manuel"
+  "longDesc": "Lets big monsters be big in KoL's Monster Manuel. It also adds annotations for ambiguous monsters such as which ornate bedstand is which and the version of the El Vibrato monsters that you get from the translator."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/manor_unlockInfo/", 
   "author": "Bale", 
   "name": "Manor Informer", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Get full status on Manor unlocking from ground floor", 
   "category": "relay", 
   "longDesc": "Get full status on Manor unlocking from ground floor"
@@ -390,7 +390,7 @@
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
   "author": "guyy", 
   "name": "TrophyTastic", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?14133-TrophyTastic-the-trophy-case-de-suckifier", 
   "shortDesc": "The trophy case de-suckifier", 
   "category": "relay", 
   "longDesc": "The trophy case de-suckifier"
@@ -399,7 +399,7 @@
   "repo": "https://svn.code.sf.net/p/bale/relay/code/woods_questStart/", 
   "author": "Bale", 
   "name": "Woods quest starter", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Get tranfunc and screwdriver when woods are first visited", 
   "category": "relay", 
   "longDesc": "Get the continuum transfunctioner and screwdriver when woods are first visited"
@@ -408,16 +408,16 @@
   "repo": "https://svn.code.sf.net/p/batman-re/code/", 
   "author": "zarqon", 
   "name": "BatMan RE", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?10042-BatMan-Relay-more-info-less-clicking", 
   "shortDesc": "Provides advanced combat HUD and automation in relay browser", 
   "category": "combat", 
-  "longDesc": "Provides advanced combat HUD and automation in relay browser.  Includes SmartStasis."
+  "longDesc": "Provides advanced combat HUD and automation in relay browser.  "
  }, 
  {
   "repo": "https://svn.code.sf.net/p/smartstasis/code/", 
   "author": "zarqon", 
   "name": "SmartStasis", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?1715-SmartStasis-a-complex-script-for-a-simple-CCS", 
   "shortDesc": "Automates stasis and other times you don't kill a monster", 
   "category": "combat", 
   "longDesc": "Automates stasis and other times you don't kill a monster"
@@ -426,7 +426,7 @@
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
   "author": "Winterbay", 
   "name": "WHAM", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-%28WHAM%29", 
   "shortDesc": "All-knowing CCS", 
   "category": "combat", 
   "longDesc": "This is a custom combat script.  It kills all the things."
@@ -435,52 +435,52 @@
   "repo": "https://svn.code.sf.net/p/batbrain/code/", 
   "author": "zarqon", 
   "name": "BatBrain", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?6445-BatBrain-a-central-nervous-system-for-consult-scripts", 
   "shortDesc": "A central nervous system for consult scripts", 
   "category": "library", 
-  "longDesc": "A central nervous system for consult scripts"
+  "longDesc": "A central nervous system for consult scripts. This library script will not work by itself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/clilinks/code/", 
   "author": "zarqon", 
   "name": "CLI Links", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13096-CLI-Links-easily-add-CLI-power-to-your-relay-script", 
   "shortDesc": "Adds CLI commands to relay scripts", 
   "category": "library", 
-  "longDesc": "Adds CLI commands to relay scripts"
+  "longDesc": "Adds CLI commands to relay scripts. This library script will not work by itself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/formhtml/code/", 
   "author": "jasonharper", 
   "name": "Form of...HTML!", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?3842-Form-of-HTML!", 
   "shortDesc": "Code library to add input forms for relay scripts", 
   "category": "library", 
-  "longDesc": "Code library to add input forms for relay scripts"
+  "longDesc": "Code library to add input forms for relay scripts. This library script will not work by itself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/zlib/code/", 
   "author": "zarqon", 
   "name": "ZLib", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2072-ZLib-Zarqon-s-useful-function-library", 
   "shortDesc": "Zarqon's general function library for scripters", 
   "category": "library", 
-  "longDesc": "Zarqon's general function library for scripters"
+  "longDesc": "Zarqon's general function library for scripters. This library script will not work by itself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bestbetweenbattle/code/", 
   "author": "zarqon", 
   "name": "BestBetweenBattle", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?1240-Best-Between-Battle-Script-Ever", 
   "shortDesc": "Manages gazoodles of between battle stuff", 
   "category": "other", 
-  "longDesc": "Manages gazoodles of between battle stuff"
+  "longDesc": "Manages gazoodles of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/lootbot/", 
   "author": "guyy", 
   "name": "LootBot", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?13620-LootBot-A-dungeon-loot-auto-seller-(is-you)", 
   "shortDesc": "Sell dungeon loot, lazily", 
   "category": "other", 
   "longDesc": "Sell dungeon loot, lazily"
@@ -489,9 +489,9 @@
   "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
   "author": "Bale", 
   "name": "New Life", 
-  "forumThread": "", 
+  "forumThread": "http://kolmafia.us/showthread.php?2769-Scripting-the-birth-of-a-new-life", 
   "shortDesc": "Scripting the birth of a new ascension", 
   "category": "other", 
-  "longDesc": "Scripting the birth of a new ascension"
+  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
