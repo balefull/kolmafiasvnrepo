@@ -67,7 +67,7 @@
   "author": "wrldwzrd89", 
   "name": "PandamoniumQuest", 
   "forumThread": "http://kolmafia.us/showthread.php?13732-wrldwzrd89-s-PandamoniumQuest-ash-automated-steel-organ", 
-  "shortDesc": "Automates the Steel Organ \"Pandamonium Quest\"", 
+  "shortDesc": "Automates the Steel Organ quest in Pandamonium", 
   "category": "adventure", 
   "longDesc": "This will find the various items needed to complete the quest in Pandamonium, solve the puzzles (perhaps changing your gear to maximize success), and finish with a steel organ item."
  }, 
@@ -495,4 +495,3 @@
   "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
-: 
