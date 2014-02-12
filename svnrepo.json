@@ -1,0 +1,497 @@
+[
+ {
+  "repo": "https://svn.code.sf.net/p/winterbay-mafia/autobasement/code/", 
+  "author": "Winterbay, Rinn", 
+  "name": "autoBasement", 
+  "forumThread": "", 
+  "shortDesc": "Automates Fernswarthy's Basement", 
+  "category": "adventure", 
+  "longDesc": "Automates Fernswarthy's Basement"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumcheekascend/", 
+  "author": "bumcheekcity, Winterbay", 
+  "name": "Bumcheekcend", 
+  "forumThread": "", 
+  "shortDesc": "Automatically script an entire ascension", 
+  "category": "adventure", 
+  "longDesc": "Automatically script an entire ascension"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumpork/", 
+  "author": "bumcheekcity", 
+  "name": "BumPork", 
+  "forumThread": "", 
+  "shortDesc": "Automatically play Porko", 
+  "category": "adventure", 
+  "longDesc": "Automatically play Porko"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/counterchecker/code/", 
+  "author": "Bale", 
+  "name": "CounterChecker", 
+  "forumThread": "", 
+  "shortDesc": "Manage automation for KoLmafia counters", 
+  "category": "adventure", 
+  "longDesc": "Manage automation for KoLmafia counters"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/mafia-harvest/code/", 
+  "author": "Ioeth, Banana Lord", 
+  "name": "Harvest", 
+  "forumThread": "", 
+  "shortDesc": "A highly customizable KoL farming script", 
+  "category": "adventure", 
+  "longDesc": "A highly customizable KoL farming script"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/winterbay-mafia/farm/code/", 
+  "author": "Winterbay, dj_d", 
+  "name": "Make Meat Fast", 
+  "forumThread": "", 
+  "shortDesc": "Automates item farming based on current mall values", 
+  "category": "adventure", 
+  "longDesc": "Automates item farming based on current mall values"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/slyz-nemesis/code/", 
+  "author": "slyz", 
+  "name": "Nemesis.ash", 
+  "forumThread": "", 
+  "shortDesc": "Automates the nemesis quest", 
+  "category": "adventure", 
+  "longDesc": "Automates the nemesis quest"
+ }, 
+ {
+  "repo": "svn://svn.code.sf.net/p/wrldwzrd89-mafia-scripts/code/trunk/pandamonium-quest/", 
+  "author": "wrldwzrd89", 
+  "name": "PandamoniumQuest", 
+  "forumThread": "", 
+  "shortDesc": "Automates the Pandamonium Quest for your Steel Organ", 
+  "category": "adventure", 
+  "longDesc": "Automates the Pandamonium Quest for your Steel Organ"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/porkfuture/", 
+  "author": "guyy", 
+  "name": "Pork to the Future", 
+  "forumThread": "", 
+  "shortDesc": "Automates the agua de vida quests", 
+  "category": "adventure", 
+  "longDesc": "Automates the agua de vida quests"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/therazekolmafia/thesea/code/", 
+  "author": "Theraze", 
+  "name": "The Sea", 
+  "forumThread": "", 
+  "shortDesc": "Automates all underwater quests", 
+  "category": "adventure", 
+  "longDesc": "Automates all underwater quests"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/slimetube/code/", 
+  "author": "Alhifar", 
+  "name": "Slime Tube", 
+  "forumThread": "", 
+  "shortDesc": "Automates the Slime Tube", 
+  "category": "adventure", 
+  "longDesc": "Automates the Slime Tube"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/tricktreat/", 
+  "author": "guyy", 
+  "name": "TrickTreat", 
+  "forumThread": "", 
+  "shortDesc": "Automates Halloween Trick or Treating", 
+  "category": "adventure", 
+  "longDesc": "Automates Halloween Trick or Treating"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/acquirebuff/code/", 
+  "author": "Rinn", 
+  "name": "acquireBuff", 
+  "forumThread": "", 
+  "shortDesc": "Get a buff from a buffbot", 
+  "category": "action", 
+  "longDesc": "Get a buff from a buffbot"
+ }, 
+ {
+  "repo": "http://svn.code.sf.net/p/rlbond86-mafia-scripts/code/auto_mushroom/trunk/", 
+  "author": "rlbond86", 
+  "name": "Auto Mushroom", 
+  "forumThread": "", 
+  "shortDesc": "Automatically farms mushrooms from Degrassi Knoll", 
+  "category": "action", 
+  "longDesc": "Automatically farms mushrooms from Degrassi Knoll"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/dreaddrunk/", 
+  "author": "guyy", 
+  "name": "DreadDrunk", 
+  "forumThread": "", 
+  "shortDesc": "Gives booze to the Dreadsylvania Carriageman", 
+  "category": "action", 
+  "longDesc": "Gives booze to the Dreadsylvania Carriageman"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/therazekolmafia/eatdrink/code/", 
+  "author": "Theraze, dj_d", 
+  "name": "EatDrink", 
+  "forumThread": "", 
+  "shortDesc": "Optimize your daily diet", 
+  "category": "action", 
+  "longDesc": "Optimize your daily diet"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/therazekolmafia/getskill/code/", 
+  "author": "Theraze & kitsunenine", 
+  "name": "Get Skill", 
+  "forumThread": "", 
+  "shortDesc": "CLI accessible skill acquisition", 
+  "category": "action", 
+  "longDesc": "CLI accessible skill acquisition"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/kolmafiascripts/shop/code/", 
+  "author": "fronobulax", 
+  "name": "Manage Store", 
+  "forumThread": "", 
+  "shortDesc": "Autosell or kBay items in your store that don't sell", 
+  "category": "action", 
+  "longDesc": "Autosell or kBay items in your store that don't sell"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/ocd/code/", 
+  "author": "Bale", 
+  "name": "OCD Inventory Control", 
+  "forumThread": "", 
+  "shortDesc": "Complete inventory control system", 
+  "category": "action", 
+  "longDesc": "Complete inventory control system"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/winterbay-mafia/sushi/code/", 
+  "author": "Winterbay", 
+  "name": "Sushi", 
+  "forumThread": "", 
+  "shortDesc": "Eats best sushi for profit", 
+  "category": "action", 
+  "longDesc": "Eats best sushi for profit"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
+  "author": "Bale", 
+  "name": "Adventure Advisor", 
+  "forumThread": "", 
+  "shortDesc": "Advice about adventure locations", 
+  "category": "information", 
+  "longDesc": "Advice about adventure locations"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/therazekolmafia/canadv/code/", 
+  "author": "Theraze, zarqon", 
+  "name": "CanAdv", 
+  "forumThread": "", 
+  "shortDesc": "Check whether you can adventure at a given location", 
+  "category": "information", 
+  "longDesc": "Check whether you can adventure at a given location"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
+  "author": "fronobulax", 
+  "name": "CFStat", 
+  "forumThread": "", 
+  "shortDesc": "Fetches and caches price and sales volume from Coldfront", 
+  "category": "information", 
+  "longDesc": "Fetches and caches price and sales volume from Coldfront"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/kolmafiascripts/dcq/code/", 
+  "author": "fronobulax", 
+  "name": "DCQuest", 
+  "forumThread": "", 
+  "shortDesc": "Assists completionists in managing their display case", 
+  "category": "information", 
+  "longDesc": "Assists completionists in managing their display case"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bumcheekascend/code/snapshot", 
+  "author": "bumcheekcity", 
+  "name": "Easy Snapshot Maker", 
+  "forumThread": "", 
+  "shortDesc": "Take a snapshot of your character to display", 
+  "category": "information", 
+  "longDesc": "Take a snapshot of your character to display"
+ }, 
+ {
+  "repo": "https://github.com/Ezandora/Guide/branches/Release/", 
+  "author": "Ezandora", 
+  "name": "Guide", 
+  "forumThread": "", 
+  "shortDesc": "Complete Ascension Guide", 
+  "category": "information", 
+  "longDesc": "Complete Ascension Guide"
+ }, 
+ {
+  "repo": "http://svn.code.sf.net/p/missingmanuel/code/trunk/", 
+  "author": "Turing", 
+  "name": "Missing Manuel", 
+  "forumThread": "", 
+  "shortDesc": "Missing Manuel factoids!", 
+  "category": "information", 
+  "longDesc": "Identifies the monsters that you still need Manuel factoids for"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/psychoseamatic/code/", 
+  "author": "zarqon", 
+  "name": "Psychose-a-Matic", 
+  "forumThread": "", 
+  "shortDesc": "One-stop psychoanalytic jar management", 
+  "category": "information", 
+  "longDesc": "One-stop psychoanalytic jar management"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/task_list/trunk/", 
+  "author": "rlbond86", 
+  "name": "Relay Task List", 
+  "forumThread": "", 
+  "shortDesc": "The ultimate \"To Do\" list!", 
+  "category": "information", 
+  "longDesc": "The ultimate \"To Do\" list!"
+ }, 
+ {
+  "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/planner/", 
+  "author": "Almighty Sapling", 
+  "name": "Skill Planner/CS Tracker", 
+  "forumThread": "", 
+  "shortDesc": "Relay script detailing the characters skills and CS", 
+  "category": "information", 
+  "longDesc": "Relay script detailing the characters skills and CS"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/cocktailmax/trunk/", 
+  "author": "rlbond86", 
+  "name": "Superhuman Cocktailcrafting maximizer", 
+  "forumThread": "", 
+  "shortDesc": "Calculates which drinks to superhumanly cocktailcraft", 
+  "category": "information", 
+  "longDesc": "Calculates which drinks to superhumanly cocktailcraft"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/towerchecker/code/", 
+  "author": "lostcalpolydude", 
+  "name": "Tower Checker", 
+  "forumThread": "", 
+  "shortDesc": "Naughty Sorceress' Tower checklist", 
+  "category": "information", 
+  "longDesc": "Shows which items you still need for the Naughty Sorceress' Tower"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
+  "author": "Bale, Chez", 
+  "name": "CHIT", 
+  "forumThread": "", 
+  "shortDesc": "Character Pane Replacement", 
+  "category": "relay", 
+  "longDesc": "This is a character pane replacement.  It is shiny."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
+  "author": "rlbond86", 
+  "name": "Bounty Hunter Helper", 
+  "forumThread": "", 
+  "shortDesc": "Shows average number of turns to complete available bounties", 
+  "category": "relay", 
+  "longDesc": "Shows average number of turns to complete available bounties"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/buttonfrenzy/", 
+  "author": "guyy", 
+  "name": "buttonFrenzy", 
+  "forumThread": "", 
+  "shortDesc": "Improves buttons for all stores", 
+  "category": "relay", 
+  "longDesc": "Improves buttons for all stores"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/relay-charsheet/code/", 
+  "author": "Heeheehee, Theraze, Rinn", 
+  "name": "Charsheet: Skills by Class", 
+  "forumThread": "", 
+  "shortDesc": "Groups skills by class on the charsheet", 
+  "category": "relay", 
+  "longDesc": "Groups skills by class on the charsheet"
+ }, 
+ {
+  "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/raidlogs/", 
+  "author": "bordemstirs", 
+  "name": "Clan Raidlog Parser", 
+  "forumThread": "", 
+  "shortDesc": "Parse your clan dungeon Raidlogs", 
+  "category": "relay", 
+  "longDesc": "Parse your clan dungeon Raidlogs"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/enhanced_inventory_spoilers/trunk/", 
+  "author": "rlbond86, ckb", 
+  "name": "Enhanced Inventory Spoilers", 
+  "forumThread": "", 
+  "shortDesc": "Shows item effects/enchantments in inventory", 
+  "category": "relay", 
+  "longDesc": "Shows item effects/enchantments in inventory"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/fax_tell/trunk/", 
+  "author": "rlbond86", 
+  "name": "Fax Identification", 
+  "forumThread": "", 
+  "shortDesc": "Tells you what you got from the fax machine", 
+  "category": "relay", 
+  "longDesc": "Tells you what you got from the fax machine"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/better_trainer/trunk/", 
+  "author": "rlbond86", 
+  "name": "Improved Guild Trainer", 
+  "forumThread": "", 
+  "shortDesc": "Shows skill descriptions for all these newfangled skills", 
+  "category": "relay", 
+  "longDesc": "Shows skill descriptions for all these newfangled skills"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/modular_choice_override/trunk/", 
+  "author": "rlbond86", 
+  "name": "Modular Choice Override", 
+  "forumThread": "", 
+  "shortDesc": "Allows overriding of choice adventures", 
+  "category": "relay", 
+  "longDesc": "Allows overriding of choice adventures"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/Monster_Manuel_Improvement/", 
+  "author": "Bale", 
+  "name": "Monster Manuel: Improved", 
+  "forumThread": "", 
+  "shortDesc": "Lets big monsters be big in KoL's Monster Manuel", 
+  "category": "relay", 
+  "longDesc": "Lets big monsters be big in KoL's Monster Manuel"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/manor_unlockInfo/", 
+  "author": "Bale", 
+  "name": "Manor Informer", 
+  "forumThread": "", 
+  "shortDesc": "Get full status on Manor unlocking from ground floor", 
+  "category": "relay", 
+  "longDesc": "Get full status on Manor unlocking from ground floor"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
+  "author": "guyy", 
+  "name": "TrophyTastic", 
+  "forumThread": "", 
+  "shortDesc": "The trophy case de-suckifier", 
+  "category": "relay", 
+  "longDesc": "The trophy case de-suckifier"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/woods_questStart/", 
+  "author": "Bale", 
+  "name": "Woods quest starter", 
+  "forumThread": "", 
+  "shortDesc": "Get tranfunc and screwdriver when woods are first visited", 
+  "category": "relay", 
+  "longDesc": "Get the continuum transfunctioner and screwdriver when woods are first visited"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/batman-re/code/", 
+  "author": "zarqon", 
+  "name": "BatMan RE", 
+  "forumThread": "", 
+  "shortDesc": "Provides advanced combat HUD and automation in relay browser", 
+  "category": "combat", 
+  "longDesc": "Provides advanced combat HUD and automation in relay browser.  Includes SmartStasis."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/smartstasis/code/", 
+  "author": "zarqon", 
+  "name": "SmartStasis", 
+  "forumThread": "", 
+  "shortDesc": "Automates stasis and other times you don't kill a monster", 
+  "category": "combat", 
+  "longDesc": "Automates stasis and other times you don't kill a monster"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
+  "author": "Winterbay", 
+  "name": "WHAM", 
+  "forumThread": "", 
+  "shortDesc": "All-knowing CCS", 
+  "category": "combat", 
+  "longDesc": "This is a custom combat script.  It kills all the things."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/batbrain/code/", 
+  "author": "zarqon", 
+  "name": "BatBrain", 
+  "forumThread": "", 
+  "shortDesc": "A central nervous system for consult scripts", 
+  "category": "library", 
+  "longDesc": "A central nervous system for consult scripts"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/clilinks/code/", 
+  "author": "zarqon", 
+  "name": "CLI Links", 
+  "forumThread": "", 
+  "shortDesc": "Adds CLI commands to relay scripts", 
+  "category": "library", 
+  "longDesc": "Adds CLI commands to relay scripts"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/formhtml/code/", 
+  "author": "jasonharper", 
+  "name": "Form of...HTML!", 
+  "forumThread": "", 
+  "shortDesc": "Code library to add input forms for relay scripts", 
+  "category": "library", 
+  "longDesc": "Code library to add input forms for relay scripts"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/zlib/code/", 
+  "author": "zarqon", 
+  "name": "ZLib", 
+  "forumThread": "", 
+  "shortDesc": "Zarqon's general function library for scripters", 
+  "category": "library", 
+  "longDesc": "Zarqon's general function library for scripters"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bestbetweenbattle/code/", 
+  "author": "zarqon", 
+  "name": "BestBetweenBattle", 
+  "forumThread": "", 
+  "shortDesc": "Manages gazoodles of between battle stuff", 
+  "category": "other", 
+  "longDesc": "Manages gazoodles of between battle stuff"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/lootbot/", 
+  "author": "guyy", 
+  "name": "LootBot", 
+  "forumThread": "", 
+  "shortDesc": "Sell dungeon loot, lazily", 
+  "category": "other", 
+  "longDesc": "Sell dungeon loot, lazily"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
+  "author": "Bale", 
+  "name": "New Life", 
+  "forumThread": "", 
+  "shortDesc": "Scripting the birth of a new ascension", 
+  "category": "other", 
+  "longDesc": "Scripting the birth of a new ascension"
+ }
+]
