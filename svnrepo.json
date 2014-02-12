@@ -6,7 +6,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3113-autoBasement-ash-Better-basement-automation", 
   "shortDesc": "Automates Fernswarthy's Basement", 
   "category": "adventure", 
-  "longDesc": "Automates Fernswarthy's Basement"
+  "longDesc": "Automates Fernswarthy's Basement: <ul><li>Creates and switches oufits</li><li>Uses cheapest buffs needed for necessary buffing</li><li>User perference to use Dr. Lucifer or other food/drink/spleen items.</li></ul>See thread for full list of options."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumcheekascend/", 
@@ -15,7 +15,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?4963-bumcheekcend-ash-A-zero-setup-semi-automated-ascension-script!", 
   "shortDesc": "Automatically script an entire ascension", 
   "category": "adventure", 
-  "longDesc": "Automatically script an entire ascension"
+  "longDesc": "This is a semi-automated hardcore ascension script. Its stated intent is to:<ol><li>Ascend Moxie characters through HCNP ascensions to get karma</li><li>Ascend Muscle and Myst characters mostly, so you can finish off ascensions started with them</li></ol>This is <b>not</b> intended for softcore, Bad Moon or any challenge path. If it works... fine, but bugs with will probably remain bugs."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumpork/", 
@@ -24,7 +24,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?6861-Automatic-Porko!", 
   "shortDesc": "Automatically play Porko", 
   "category": "adventure", 
-  "longDesc": "Automatically play Porko"
+  "longDesc": "Simply complete the quest and unlock the Elvish Paradise, run bumpork.ash and it should work fine."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/counterchecker/code/", 
@@ -33,7 +33,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2519-CounterChecker-Wormwood-Semi-rares-Dance-Cards-and-more", 
   "shortDesc": "Manage automation for KoLmafia counters", 
   "category": "adventure", 
-  "longDesc": "Manage automation for KoLmafia counters"
+  "longDesc": "This script will automatically handle all your counters automatically. Supported Counters:<ul><li><b>Fortune Cookie</b>: If you're not in hardcore it will get the available semi-rare with highest mall price.</li><li><b>Wormwood</b>: Will automatically get the wormwood goal of your choice.<br />You can set the goal in CLI with: <i>set wormwood = goal</i></li><li><b>Dance Card</b>: Will adventure in Ballroom, if you're not already there and use another dance card.</li></ul>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/mafia-harvest/code/", 
@@ -42,7 +42,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?7015-Harvest-%96-A-highly-customisable-farming-script", 
   "shortDesc": "A highly customizable KoL farming script", 
   "category": "adventure", 
-  "longDesc": "A highly customizable KoL farming script"
+  "longDesc": "Can be configured to the farm whatever you like best. It runs from login to logout, handling all your daily activities <i>(eg: buffbot buffs, prismatic wads, equipping optimal rollover gear etc.)</i>. It even hunts bounties."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/farm/code/", 
@@ -51,7 +51,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2567-Make-meat-fast", 
   "shortDesc": "Automates item farming based on current mall values", 
   "category": "adventure", 
-  "longDesc": "Automates item farming based on current mall values"
+  "longDesc": "It surveys the entire kingdom and all of your possessions to figure out what will make you the most meat. If something gets in demand - like briefcases did during one Crimbo - it automatically figures it out and farms accordingly. If farming the castle is best; great - it optimizes you for that as well."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/slyz-nemesis/code/", 
@@ -60,7 +60,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?4761-Nemesis-quest-script", 
   "shortDesc": "Automates the nemesis quest", 
   "category": "adventure", 
-  "longDesc": "Automates the nemesis quest"
+  "longDesc": "This script will automatically do the LEW and nemesis Cave quests, farm until you get the volcano map, unlock the volcano island, unlock the nemesis lair and try to solve the volcano maze. Surviving combats is your responsibility."
  }, 
  {
   "repo": "svn://svn.code.sf.net/p/wrldwzrd89-mafia-scripts/code/trunk/pandamonium-quest/", 
@@ -69,7 +69,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13732-wrldwzrd89-s-PandamoniumQuest-ash-automated-steel-organ", 
   "shortDesc": "Automates the Pandamonium Quest for your Steel Organ", 
   "category": "adventure", 
-  "longDesc": "Automates the Pandamonium Quest for your Steel Organ"
+  "longDesc": "This will find the various items needed to complete the quest in Pandamonium, solve the puzzles (perhaps changing your gear to maximize success), and finish with a steel organ item."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/porkfuture/", 
@@ -78,7 +78,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12625-Pork-to-the-Future-Cyrus-Hyboria-Future-and-Wumpus!", 
   "shortDesc": "Automates the agua de vida quests", 
   "category": "adventure", 
-  "longDesc": "Automates the agua de vida quests"
+  "longDesc": "A script to automatically complete:<ol><li><b>Primordial Fear</b> (be Cyrus's punching bag)</li><li><b>Hyboria</b> (Krakrox does manly things), including Hunt the Wumpus</li><li><b>Future</b> (collect elemental essences)</li></ol>...and get you a nifty <i>Secret from the Future</i>."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/thesea/code/", 
@@ -105,7 +105,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13890-Trick-Or-Treating-script", 
   "shortDesc": "Automates Halloween Trick or Treating", 
   "category": "adventure", 
-  "longDesc": "Automates Halloween Trick or Treating"
+  "longDesc": "Automates Halloween Trick or Treating. It will allow you to choose separate outfits for combat and non-combat encounters. If you encounter All-Hallow's Steve, it will abort so you can fight him yourself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/acquirebuff/code/", 
@@ -114,7 +114,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?4048-acquireBuff-Get-a-buff-from-a-buffbot", 
   "shortDesc": "Get a buff from a buffbot", 
   "category": "action", 
-  "longDesc": "Get a buff from a buffbot"
+  "longDesc": "This script will attempt to get you a buff from a buffbot without needing to know the price or even the bot's name."
  }, 
  {
   "repo": "http://svn.code.sf.net/p/rlbond86-mafia-scripts/code/auto_mushroom/trunk/", 
@@ -123,7 +123,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?9854-auto_mushroom-the-perfect-mushroom-growing-script", 
   "shortDesc": "Automatically farms mushrooms from Degrassi Knoll", 
   "category": "action", 
-  "longDesc": "Automatically farms mushrooms from Degrassi Knoll"
+  "longDesc": "Automatically farms mushrooms to produce 8 gloomy black mushrooms every 16 days, along with a lot of additional second and third generation mushrooms."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/dreaddrunk/", 
@@ -132,7 +132,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12975-Carriageman-Feeder", 
   "shortDesc": "Gives booze to the Dreadsylvania Carriageman", 
   "category": "action", 
-  "longDesc": "Gives booze to the Dreadsylvania Carriageman"
+  "longDesc": "This will find the most cost-efficient booze (given a non-insane number of mall searches) for making the Carriageman drunk as a Dreadsylvanian skunk, buy as much as it needs, and dump it down his throat."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/eatdrink/code/", 
