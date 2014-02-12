@@ -67,7 +67,7 @@
   "author": "wrldwzrd89", 
   "name": "PandamoniumQuest", 
   "forumThread": "http://kolmafia.us/showthread.php?13732-wrldwzrd89-s-PandamoniumQuest-ash-automated-steel-organ", 
-  "shortDesc": "Automates the Pandamonium Quest for your Steel Organ", 
+  "shortDesc": "Automates the Steel Organ <i>'Pandamonium Quest'</i>", 
   "category": "adventure", 
   "longDesc": "This will find the various items needed to complete the quest in Pandamonium, solve the puzzles (perhaps changing your gear to maximize success), and finish with a steel organ item."
  }, 
@@ -193,16 +193,16 @@
   "author": "Theraze, zarqon", 
   "name": "CanAdv", 
   "forumThread": "http://kolmafia.us/showthread.php?2027-CanAdv-check-whether-you-can-adventure-at-a-given-location", 
-  "shortDesc": "Check whether you can adventure at a given location", 
+  "shortDesc": "Check if you 'Can Adventure' at a location, 
   "category": "information", 
-  "longDesc": "Check whether you can adventure at a given location"
+  "longDesc": "Check whether you can adventure at any given location"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
   "author": "fronobulax", 
   "name": "CFStat", 
   "forumThread": "http://kolmafia.us/showthread.php?9947-ManageStore-and-CFStat-Weed-out-your-store", 
-  "shortDesc": "Fetches and caches price and sales volume from Coldfront", 
+  "shortDesc": "Acquire price and sales volume from Coldfront", 
   "category": "information", 
   "longDesc": "Fetches and caches price and sales volume from Coldfront"
  }, 
@@ -292,7 +292,7 @@
   "author": "rlbond86", 
   "name": "Bounty Hunter Helper", 
   "forumThread": "http://kolmafia.us/showthread.php?10991-Bounty-Hunter-Helper", 
-  "shortDesc": "Shows average number of turns to complete available bounties", 
+  "shortDesc": "Shows turncount for available bounties", 
   "category": "relay", 
   "longDesc": "Shows average number of turns to complete available bounties"
  }, 
@@ -400,7 +400,7 @@
   "author": "Bale", 
   "name": "Woods quest starter", 
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
-  "shortDesc": "Get tranfunc and screwdriver when woods are first visited", 
+  "shortDesc": "Get transfunctioner and screwdriver automatically", 
   "category": "relay", 
   "longDesc": "Get the continuum transfunctioner and screwdriver when woods are first visited"
  }, 
@@ -409,18 +409,18 @@
   "author": "zarqon", 
   "name": "BatMan RE", 
   "forumThread": "http://kolmafia.us/showthread.php?10042-BatMan-Relay-more-info-less-clicking", 
-  "shortDesc": "Provides advanced combat HUD and automation in relay browser", 
+  "shortDesc": "Provides advanced combat interface in browser", 
   "category": "combat", 
-  "longDesc": "Provides advanced combat HUD and automation in relay browser.  "
+  "longDesc": "Provides advanced combat HUD and automation in the relay browser.  "
  }, 
  {
   "repo": "https://svn.code.sf.net/p/smartstasis/code/", 
   "author": "zarqon", 
   "name": "SmartStasis", 
   "forumThread": "http://kolmafia.us/showthread.php?1715-SmartStasis-a-complex-script-for-a-simple-CCS", 
-  "shortDesc": "Automates stasis and other times you don't kill a monster", 
+  "shortDesc": "Automates stasis and other non-lethal combat", 
   "category": "combat", 
-  "longDesc": "Automates stasis and other times you don't kill a monster"
+  "longDesc": "Automates stasis and all other times you don't kill a monster such as insulting pirates and flyering."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
