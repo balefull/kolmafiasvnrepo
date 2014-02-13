@@ -60,7 +60,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?4761-Nemesis-quest-script", 
   "shortDesc": "Automates the nemesis quest", 
   "category": "adventure", 
-  "longDesc": "This script will automatically do the LEW and nemesis Cave quests, farm until you get the volcano map, unlock the volcano island, unlock the nemesis lair and try to solve the volcano maze. Surviving combats is your responsibility."
+  "longDesc": "<ol><li>Automatically do the LEW and nemesis Cave quests</li><li>Farm until you get the volcano map</li><li>Unlock the volcano island</li><li>Unlock the nemesis lair and try to solve the volcano maze</li></ol>Surviving combats is your responsibility."
  }, 
  {
   "repo": "svn://svn.code.sf.net/p/wrldwzrd89-mafia-scripts/code/trunk/pandamonium-quest/", 
@@ -87,7 +87,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8708-TheSea-ash-Automated-Underwater-Quests", 
   "shortDesc": "Automates all underwater quests", 
   "category": "adventure", 
-  "longDesc": "Automates all underwater quests"
+  "longDesc": "Read thread for information on how to configure this script to do any of the following:<table style='font-size:10px;'><tr><td><ul type='square'><li>Adventure to unlock all 5 monkees</li><li>Adventure to get you to the hatred boss outfit</li><li>Adventure to get you to the violence boss outfit</li><li>Chat with Grandpa about all known chat topics</li></ul></td><td><ul type='square'><li>Get Das Boot or other reward from the Old Man</li><li>Unlock and complete the Skate quest</li><li>Get a sushi mat and install it</li><li>Get an aerated diving helmet</li></ol></td></tr></table>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/slimetube/code/", 
@@ -96,7 +96,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2596-Slime-Tube-Adventuring-Script", 
   "shortDesc": "Automates the Slime Tube", 
   "category": "adventure", 
-  "longDesc": "Automates the Slime Tube"
+  "longDesc": "This script will adventure in the slime tube, changing outfits to get the most turns of Coated in Slime possible, and wiping off the slime whenever you are no longer able to survive the damage you would receive combined from Coated in Slime, and the combat.<p>It will take advantage of Navel runaways and Bandersnatch runaways, and supports the following skills for damage calculations: Attack with weapon, Thrust-Smack, Lunging Thrust-Smack, Saucegeyser, Weapon of the Pastalord, Shieldbutt, Fearful Fetuccini and divines, both single and funkslung."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/tricktreat/", 
@@ -150,7 +150,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?4302-Get_skill-ash-CLI-accessible-skill-acquisition", 
   "shortDesc": "CLI accessible skill acquisition", 
   "category": "action", 
-  "longDesc": "CLI accessible skill acquisition"
+  "longDesc": "Allows you to learn a skill directly from the CLI."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/shop/code/", 
@@ -495,3 +495,4 @@
   "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
+: 
