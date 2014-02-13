@@ -69,7 +69,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13732-wrldwzrd89-s-PandamoniumQuest-ash-automated-steel-organ", 
   "shortDesc": "Automates the Steel Organ quest in Pandamonium", 
   "category": "adventure", 
-  "longDesc": "This will find the various items needed to complete the quest in Pandamonium, solve the puzzles (perhaps changing your gear to maximize success), and finish with a steel organ item."
+  "longDesc": "This will find the various items needed to complete the quest in Pandamonium, solve the puzzles (perhaps changing your gear to maximize success), and finish by using the steel organ item if possible."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/porkfuture/", 
@@ -141,7 +141,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1519-EatDrink-ash-Optimize-your-daily-diet", 
   "shortDesc": "Optimize your daily diet", 
   "category": "action", 
-  "longDesc": "Optimize your daily diet"
+  "longDesc": "EatDrink.ash will attempt to fill you up with the finest vittles, firewater, and spleenables that the kingdom has to offer - and that you can afford. It considers things like prices, the relative value of adventures and stats, whether you have to pull or purchase the item, and so on. It even ends your day with a bang by overdrinking (if you tell it to)."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/getskill/code/", 
@@ -177,7 +177,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?5767-Best-sushi-for-profit", 
   "shortDesc": "Eats best sushi for profit", 
   "category": "action", 
-  "longDesc": "This script tries to look over your sushi-eating options and make the bets choices based on a given meat-per-adventure. It can be used directly or imported into another script as described further down."
+  "longDesc": "This script tries to look over your sushi-eating options and make the best choices based on a given meat-per-adventure. It can be used directly or imported into another script as described in the associated thread."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
@@ -195,7 +195,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2027-CanAdv-check-whether-you-can-adventure-at-a-given-location", 
   "shortDesc": "Check if you \"Can Adventure\" at a location", 
   "category": "information", 
-  "longDesc": "Check whether you can adventure at any given location.<p>This is most useful when imported into other scripts for use."
+  "longDesc": "Check whether you can adventure at any given location.<p><i>This is most useful when imported into other scripts.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
@@ -249,7 +249,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13293-Psychose-a-Matic-one-stop-NPC-psychiatric-management", 
   "shortDesc": "One-stop psychoanalytic jar management", 
   "category": "information", 
-  "longDesc": "One-stop psychoanalytic jar management"
+  "longDesc": "The psychoanalytic jars dropped by the Angry Jung Man add a <i>lot</i> of fun content to KoL. Each jar is a flavorful mini-quest with a sweet sword for a reward. It can be tedious, however, to manage everything -- the jars are in your inventory, the NPCs are all over the kingdom, the couch is in your campground, and all the quest information you might want to seek out is on the Wiki. When I was setting out to experience all the jar content for myself, I immediately realized a script which organized this information and put it all in one place would be a big click-reducing asset to completing the jars. Hence, this script."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/task_list/trunk/", 
@@ -258,7 +258,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?14400-Relay-Task-List-(Programmable!)", 
   "shortDesc": "The ultimate \"To Do\" list!", 
   "category": "information", 
-  "longDesc": "The ultimate \"To Do\" list!"
+  "longDesc": "This relay override shows a task list at the bottom of main.php displaying stuff you still need to do. Unlike some other scripts that might be similar, this one is <b>programmable</b> using ASH.<p>If you don't know anything about ASH programming, that's OK! The task list comes preprogrammed with all of the in-run main quests as well as some side quests and The Sea. It's quite functional even if you never touch the programmable aspect."
  }, 
  {
   "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/planner/", 
@@ -267,7 +267,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?5657-Skill-CS-planner", 
   "shortDesc": "Relay script detailing the characters skills and CS", 
   "category": "information", 
-  "longDesc": "Relay script detailing the characters skills and CS"
+  "longDesc": "This is an informational script very similar to BCC's profile snapshot, but with some critical differences. All the information is stored locally, rather than online. The layout is a little different, and customizable to your liking. It shows familiars, trophies, tattoos and skills. The skills come with a nice little queue so that you can drag and drop them into place and sort them based on priority."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/cocktailmax/trunk/", 
@@ -276,7 +276,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11488-Superhuman-Cocktailcrafting-maximizer", 
   "shortDesc": "Calculates which drinks to superhumanly cocktailcraft", 
   "category": "information", 
-  "longDesc": "Calculates which drinks to superhumanly cocktailcraft"
+  "longDesc": "Have Superhuman Cocktailcrafting and a bunch of ingredients? Don't know how to make the most drinks out of all your stuff? Not sure what to use your still charges for?<p>Enter the Cocktailcrafting Maximizer. The script will run a linear program to determine how to maximize your still uses and what drinks to create. It will try to first maximize the total number of drinks you can make, breaking ties by total profit."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/towerchecker/code/", 
@@ -285,7 +285,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?9381-Tower-Checker", 
   "shortDesc": "Naughty Sorceress' Tower checklist", 
   "category": "information", 
-  "longDesc": "Shows which items you still need for the Naughty Sorceress' Tower"
+  "longDesc": "This script gives information about what you have and still need for climbing the tower. It gives the same information as the <b>telescope</b> command, plus lets you know if you need a drum, guitar, star items, keys, and an item for the final boss. This stuff is mostly so you don't forget to farm/pull an item before reaching the tower."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
@@ -294,7 +294,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?10991-Bounty-Hunter-Helper", 
   "shortDesc": "Shows turncount for available bounties", 
   "category": "relay", 
-  "longDesc": "Shows average number of turns to complete available bounties"
+  "longDesc": "Tired of opening the KoL Wiki every day to check on which bounty is the fastest? Ever realized that the turns quoted on the Wiki are inaccurate? This relay script was made to display bounty information in a helpful, easy way."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/buttonfrenzy/", 
