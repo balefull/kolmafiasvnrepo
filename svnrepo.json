@@ -159,7 +159,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?9947-ManageStore-and-CFStat-Weed-out-your-store", 
   "shortDesc": "Autosell or kBay items in your store that don't sell", 
   "category": "action", 
-  "longDesc": "Autosell or kBay items in your store that don't sell"
+  "longDesc": "ManageStore looks at all the items in your store. It then offers the opportunity to autosell or sell on kBay all the items that are priced at the mall minimum, have a low (see below) sales volume or a ColdFront average price that is greater than the mall minimum."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/ocd/code/", 
@@ -168,7 +168,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1818-OCD-Inventory-control", 
   "shortDesc": "Complete inventory control system", 
   "category": "action", 
-  "longDesc": "Complete inventory control system"
+  "longDesc": "<div style='font-size:10px;'>This script will allow you to choose the proper dispensation for absolutely every item that may be in your inventory. You can tell it exactly how many to keep of any given item, or tell it to keep all of them. It can put items in the mall, send items as gifts, mix keys into pies, use gift certificates, stock your display case or autosell trash items.<p>Okay, this script is honestly a bit insane. It's somewhat nuts to list a method of dealing with every single item I may own. I use this because I want to cleanse my inventory before every hardcore ascension. It takes a bit of effort to make the list of everything, but now my inventory can be malled in a flash. If anyone else wants to make the trouble of making their own list it would do the same for them.</div>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/sushi/code/", 
@@ -177,7 +177,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?5767-Best-sushi-for-profit", 
   "shortDesc": "Eats best sushi for profit", 
   "category": "action", 
-  "longDesc": "Eats best sushi for profit"
+  "longDesc": "This script tries to look over your sushi-eating options and make the bets choices based on a given meat-per-adventure. It can be used directly or imported into another script as described further down."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
@@ -186,16 +186,16 @@
   "forumThread": "http://kolmafia.us/showthread.php?4367-Adventure-Advisor", 
   "shortDesc": "Advice about adventure locations", 
   "category": "information", 
-  "longDesc": "Advice about adventure locations"
+  "longDesc": "This cute relay UI script will display all relevant adventuring locations in the Kingdom along with information on safe adventuring."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/canadv/code/", 
   "author": "Theraze, zarqon", 
   "name": "CanAdv", 
   "forumThread": "http://kolmafia.us/showthread.php?2027-CanAdv-check-whether-you-can-adventure-at-a-given-location", 
-  "shortDesc": "Check if you 'Can Adventure' at a location", 
+  "shortDesc": "Check if you \"Can Adventure\" at a location", 
   "category": "information", 
-  "longDesc": "Check whether you can adventure at any given location"
+  "longDesc": "Check whether you can adventure at any given location.<p>This is most useful when imported into other scripts for use."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
@@ -213,7 +213,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3640-DCQuest", 
   "shortDesc": "Assists completionists in managing their display case", 
   "category": "information", 
-  "longDesc": "Assists completionists in managing their display case"
+  "longDesc": "DCQuest is an information gathering script for the Display Case completest. It looks at every displayable item that your version of Kolmafia knows about and writes tab delimited files with some annotation in the data subdirectory."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/snapshot", 
@@ -222,7 +222,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3001-bumcheekcity-s-Easy-Snapshot-Maker", 
   "shortDesc": "Take a snapshot of your character to display", 
   "category": "information", 
-  "longDesc": "Take a snapshot of your character to display"
+  "longDesc": "This script will retrieve information about your character and store it on a website so everyone can see it."
  }, 
  {
   "repo": "https://github.com/Ezandora/Guide/branches/Release/", 
@@ -231,7 +231,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?14784-Guide", 
   "shortDesc": "Complete Ascension Guide", 
   "category": "information", 
-  "longDesc": "Complete Ascension Guide"
+  "longDesc": "Guide is a relay script that will give advice on playing KoL. It details how to complete quests you're on and what resources you have available. During an ascension, it will inform you what you need to know to complete your ascension as quickly as possible including faxing, the daily dungeon, acquiring a wand and where to go next."
  }, 
  {
   "repo": "http://svn.code.sf.net/p/missingmanuel/code/trunk/", 
@@ -240,7 +240,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11428-missingManuel-ash-Yet-Another-Manuel-Script!", 
   "shortDesc": "Missing Manuel factoids!", 
   "category": "information", 
-  "longDesc": "Identifies the monsters that you still need Manuel factoids for"
+  "longDesc": "This scans Monster Manuel to get a list of monsters with missing factoids.<p>The script will ask if you want to display the full list. Selecting yes will list all monsters. Selecting no will only list the monsters for which you still need to hunt factoids. The display of monsters is sorted by area for your convenience."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/psychoseamatic/code/", 
