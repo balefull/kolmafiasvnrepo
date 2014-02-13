@@ -288,6 +288,42 @@
   "longDesc": "This script gives information about what you have and still need for climbing the tower. It gives the same information as the <b>telescope</b> command, plus lets you know if you need a drum, guitar, star items, keys, and an item for the final boss. This stuff is mostly so you don't forget to farm/pull an item before reaching the tower."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/campground/", 
+  "author": "Bale", 
+  "name": "Bale's Campground", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Additional functionality for your campground", 
+  "category": "relay", 
+  "longDesc": "Adds several nice features to your campground:<ul><li>Telescope: When you \"Look Low\" it adds detail, telling you exactly what items you need to kill the tower monsters.</li><li>Bookshelf: Tells you how many tome and libram summons you have done today.</li><li>Workshed: Allows easy switching of workshed appliances if you haven't done so today.</li></ul>"
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/mall_storeLinks/", 
+  "author": "Bale", 
+  "name": "Bale's Mall", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Extra links added to your mall entrance", 
+  "category": "relay", 
+  "longDesc": "If you click on the \"mall\" link in the top menu it modifies that page. Not everyone uses the page, but for those who do...<p>Adds several links as shortcuts to managing your item prices and viewing recent store activity."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/museum/", 
+  "author": "Bale", 
+  "name": "Bale's Museum", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Museum Leaderboard skin", 
+  "category": "relay", 
+  "longDesc": "Want to see which commendations for the current path are silver and which are bronze? This playful override colors the player's names so that you can tell at a glance who just missed getting a silver star."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/topmenu/", 
+  "author": "Bale", 
+  "name": "Bale's Topmenu", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "topmenu skinned for increased functionality", 
+  "category": "relay", 
+  "longDesc": "<ul><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>Tries to be intelligent about only adding links when they become relevant.</li></ul>"
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
   "author": "rlbond86", 
   "name": "Bounty Hunter Helper", 
@@ -495,5 +531,6 @@
   "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
+: 
 : 
 : 
