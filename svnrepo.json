@@ -303,7 +303,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12692-buttonFrenzy-Betterized-stores", 
   "shortDesc": "Improves buttons for all stores", 
   "category": "relay", 
-  "longDesc": "Improves buttons for all stores"
+  "longDesc": "A buttontastic improvement to the interface of mall-stores and (most) NPC stores."
  }, 
   {
   "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
@@ -312,7 +312,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?7594-Character-Info-Toolbox", 
   "shortDesc": "Character Pane Replacement", 
   "category": "relay", 
-  "longDesc": "This skins your left pane to make everything easier to see at the same time. It adds a lot of great tools like an outfit switcher and Florist Plant control. It is also so beautifully shiny that your entire life will be better."
+  "longDesc": "This skins your left pane to make everything easier to see at the same time. It adds a lot of great tools like an outfit switcher, MCD control and Florist plant visibility and control. It is also so beautifully shiny that your entire life will be better."
  }, 
 {
   "repo": "https://svn.code.sf.net/p/relay-charsheet/code/", 
@@ -321,7 +321,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1578-charsheet-php-Group-Skills-by-Character-Class", 
   "shortDesc": "Groups skills by class on the charsheet", 
   "category": "relay", 
-  "longDesc": "Groups skills by class on the charsheet"
+  "longDesc": "On your charsheet it will sort your skills by character class."
  }, 
  {
   "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/raidlogs/", 
@@ -339,7 +339,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?10005-Enhanced-Inventory-Spoilers", 
   "shortDesc": "Shows item effects/enchantments in inventory", 
   "category": "relay", 
-  "longDesc": "Shows item effects/enchantments in inventory"
+  "longDesc": "This will display information about every item in your inventory, below its name."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/fax_tell/trunk/", 
@@ -348,7 +348,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11247-Tell-you-what-you-got-in-the-fax-machine-1-0", 
   "shortDesc": "Tells you what you got from the fax machine", 
   "category": "relay", 
-  "longDesc": "Tells you what you got from the fax machine"
+  "longDesc": "I kept getting annoyed when I wouldn't get the fax I wanted. So I wrote this relay script which displays what just arrived in the fax machine."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/better_trainer/trunk/", 
@@ -357,7 +357,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13972-Improved-Guild-Trainer", 
   "shortDesc": "Shows skill descriptions for all these newfangled skills", 
   "category": "relay", 
-  "longDesc": "Shows skill descriptions for all these newfangled skills"
+  "longDesc": "Displays the description for every skill at the Guild Trainer."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/modular_choice_override/trunk/", 
@@ -366,7 +366,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11264-Modular-Choice-Override", 
   "shortDesc": "Allows overriding of choice adventures", 
   "category": "relay", 
-  "longDesc": "Allows overriding of choice adventures"
+  "longDesc": "This relay script is really more of a framework.<p> Ever wanted to override a choice adventure, but been frustrated with mafia's lack of support? It's very difficult to override a single choice adventure and not interfere with other choice adventure overrides. This script is designed to make overriding choice adventures easy and conflict-free."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/Monster_Manuel_Improvement/", 
@@ -375,7 +375,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11388-Monster-Manuel-Improved", 
   "shortDesc": "Lets big monsters be big in KoL's Monster Manuel", 
   "category": "relay", 
-  "longDesc": "Lets big monsters be big in KoL's Monster Manuel. It also adds annotations for ambiguous monsters such as which ornate bedstand is which and the version of the El Vibrato monsters that you get from the translator."
+  "longDesc": "Lets big monsters be big in KoL's Monster Manuel.<p>This also adds annotations for ambiguous monsters such as which Nightstand is which, the toolbearing Gremlins and the version of the El Vibrato monsters that you get from the translator."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/manor_unlockInfo/", 
@@ -384,7 +384,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Get full status on Manor unlocking from ground floor", 
   "category": "relay", 
-  "longDesc": "Get full status on Manor unlocking from ground floor"
+  "longDesc": "Display full status of Manor unlocking from the ground floor."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
@@ -393,7 +393,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?14133-TrophyTastic-the-trophy-case-de-suckifier", 
   "shortDesc": "The trophy case de-suckifier", 
   "category": "relay", 
-  "longDesc": "The trophy case de-suckifier"
+  "longDesc": "Trophies! They're great. But arranging them is a pain in the (chaos) butt(erfly).<p>This script transforms the barely usable trophy case into a means of creating bitchin' trophy configurations quickly instead of over many hours while you slowly lose your mind."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/woods_questStart/", 
@@ -438,7 +438,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?6445-BatBrain-a-central-nervous-system-for-consult-scripts", 
   "shortDesc": "A central nervous system for consult scripts", 
   "category": "library", 
-  "longDesc": "A central nervous system for consult scripts. This library script will not work by itself."
+  "longDesc": "A central nervous system for consult scripts. <i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/clilinks/code/", 
@@ -447,7 +447,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13096-CLI-Links-easily-add-CLI-power-to-your-relay-script", 
   "shortDesc": "Adds CLI commands to relay scripts", 
   "category": "library", 
-  "longDesc": "Adds CLI commands to relay scripts. This library script will not work by itself."
+  "longDesc": "Adds CLI commands to relay scripts. <i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/formhtml/code/", 
@@ -456,7 +456,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3842-Form-of-HTML!", 
   "shortDesc": "Code library to add input forms for relay scripts", 
   "category": "library", 
-  "longDesc": "Code library to add input forms for relay scripts. This library script will not work by itself."
+  "longDesc": "Code library to add input forms for relay scripts. <i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/zlib/code/", 
@@ -465,7 +465,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2072-ZLib-Zarqon-s-useful-function-library", 
   "shortDesc": "Zarqon's general function library for scripters", 
   "category": "library", 
-  "longDesc": "Zarqon's general function library for scripters. This library script will not work by itself."
+  "longDesc": "Zarqon's general function library for scripting. <i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bestbetweenbattle/code/", 
@@ -495,4 +495,5 @@
   "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
+: 
 : 
