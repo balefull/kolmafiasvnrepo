@@ -294,7 +294,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Additional functionality for your campground", 
   "category": "relay", 
-  "longDesc": "Adds several nice features to your campground:<ul><li>Telescope: When you \"Look Low\" it adds detail, telling you exactly what items you need to kill the tower monsters.</li><li>Bookshelf: Tells you how many tome and libram summons you have done today.</li><li>Workshed: Allows easy switching of workshed appliances if you haven't done so today.</li></ul>"
+  "longDesc": "Adds several nice features to your campground:<ul><li><b>Telescope</b>: When you \"Look Low\" it adds detail, telling you exactly what items you need to kill the tower monsters.</li><li><b>Bookshelf</b>: Tells you how many tome and libram summons you have done today.</li><li><b>Workshed</b>: Allows easy switching of workshed appliances if you haven't done so today.</li></ul>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/mall_storeLinks/", 
@@ -303,7 +303,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Extra links added to your mall entrance", 
   "category": "relay", 
-  "longDesc": "If you click on the \"mall\" link in the top menu it modifies that page. Not everyone uses the page, but for those who do...<p>Adds several links as shortcuts to managing your item prices and viewing recent store activity."
+  "longDesc": "If you click on the \"mall\" link in the top menu it modifies that page. Not everyone uses the page, but for those who do... This adds several links as shortcuts to managing your item prices and viewing recent store activity."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/museum/", 
@@ -321,7 +321,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "topmenu skinned for increased functionality", 
   "category": "relay", 
-  "longDesc": "<ul><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>Tries to be intelligent about only adding links when they become relevant.</li></ul>"
+  "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li></ul>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
@@ -344,7 +344,7 @@
   {
   "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
   "author": "Bale, Chez", 
-  "name": "CHIT", 
+  "name": "ChIT", 
   "forumThread": "http://kolmafia.us/showthread.php?7594-Character-Info-Toolbox", 
   "shortDesc": "Character Pane Replacement", 
   "category": "relay", 
@@ -366,7 +366,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8052-raidlog-override-a-la-Dr-Evi1", 
   "shortDesc": "Parse your clan dungeon Raidlogs", 
   "category": "relay", 
-  "longDesc": "Makes your clan dungeons like Hobopolis and Dreadsylvania a lot more friendly. It is the KoLmafia version of Dr.Evi1's famous greasemonkey script."
+  "longDesc": "Parses the clan dungeon Raidlog to make your clan dungeons like Hobopolis and Dreadsylvania a lot more friendly. It is the KoLmafia version of Dr.Evi1's famous greasemonkey script."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/enhanced_inventory_spoilers/trunk/", 
@@ -499,7 +499,7 @@
   "author": "zarqon", 
   "name": "ZLib", 
   "forumThread": "http://kolmafia.us/showthread.php?2072-ZLib-Zarqon-s-useful-function-library", 
-  "shortDesc": "Zarqon's general function library for scripters", 
+  "shortDesc": "Zarqon's general function library for scripting", 
   "category": "library", 
   "longDesc": "Zarqon's general function library for scripting. <i>This library script will not work by itself.</i>"
  }, 
@@ -519,7 +519,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13620-LootBot-A-dungeon-loot-auto-seller-(is-you)", 
   "shortDesc": "Sell dungeon loot, lazily", 
   "category": "other", 
-  "longDesc": "Sell dungeon loot, lazily"
+  "longDesc": "This is an experimental thing to make selling untradeable dungeon loot only marginally more complicated than Mall-selling."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
@@ -528,7 +528,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2769-Scripting-the-birth-of-a-new-life", 
   "shortDesc": "Scripting the birth of a new ascension", 
   "category": "other", 
-  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
+  "longDesc": "Scripting the birth of a:  new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
  }
 ]
 : 
