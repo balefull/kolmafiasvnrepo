@@ -432,6 +432,15 @@
   "longDesc": "Trophies! They're great. But arranging them is a pain in the (chaos) butt(erfly).<p>This script transforms the barely usable trophy case into a means of creating bitchin' trophy configurations quickly instead of over many hours while you slowly lose your mind."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/relay/code/desc_wikiLinks/", 
+  "author": "Bale", 
+  "name": "Wiki Links", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Pop-ups descriptions link to entry on KoL Wiki", 
+  "category": "relay", 
+  "longDesc": "This alters KoL's pop-up windows, making the title of the window into a link to its entry on the KoL Wiki. The affects pop-up descriptions for effect, familiar, item, outfit, skill and Pasta Thrall."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/woods_questStart/", 
   "author": "Bale", 
   "name": "Woods quest starter", 
