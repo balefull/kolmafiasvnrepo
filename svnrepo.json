@@ -312,7 +312,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Museum Leaderboard skin", 
   "category": "relay", 
-  "longDesc": "Want to see which commendations for the current path are silver and which are bronze? This playful override colors the player's names so that you can tell at a glance who just missed getting a silver star."
+  "longDesc": "Want to see which commendations for the current path are silver and which are bronze? This playful override adds numerical rankings and colorizes the player's names so that you can tell at a glance who just missed getting a silver star."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/topmenu/", 
