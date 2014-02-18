@@ -87,7 +87,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8708-TheSea-ash-Automated-Underwater-Quests", 
   "shortDesc": "Automates all underwater quests", 
   "category": "adventure", 
-  "longDesc": "Read thread for information on how to configure this script to do any of the following:<table style='font-size:10px;'><tr><td><ul type='square'><li>Adventure to unlock all 5 monkees</li><li>Adventure to get you to the hatred boss outfit</li><li>Adventure to get you to the violence boss outfit</li><li>Chat with Grandpa about all known chat topics</li></ul></td><td><ul type='square'><li>Get Das Boot or other reward from the Old Man</li><li>Unlock and complete the Skate quest</li><li>Get a sushi mat and install it</li><li>Get an aerated diving helmet</li></ol></td></tr></table>"
+  "longDesc": "Read the thread for information on how to configure this script to do any of the following:<table><tr><td'><ul type='square' style='margin-left:12px;'><li>Adventure to unlock all 5 monkees</li><li>Adventure to get you to the hatred boss outfit</li><li>Adventure to get you to the violence boss outfit</li><li>Chat with Grandpa about all known chat topics</li></ul></td><td><ul type='square' style='margin-left:20px;'><li>Get Das Boot or other reward from the Old Man</li><li>Unlock and complete the Skate quest</li><li>Get a sushi mat and install it</li><li>Get an aerated diving helmet</li></ol></td></tr></table>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/slimetube/code/", 
