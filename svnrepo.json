@@ -480,7 +480,7 @@
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
   "author": "Winterbay", 
   "name": "WHAM", 
-  "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-%28WHAM%29", 
+  "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-WHAM", 
   "shortDesc": "All-knowing CCS", 
   "category": "combat", 
   "longDesc": "This is a custom combat script. It kills all the things."
@@ -492,7 +492,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?6445-BatBrain-a-central-nervous-system-for-consult-scripts", 
   "shortDesc": "A central nervous system for consult scripts", 
   "category": "library", 
-  "longDesc": "A central nervous system for consult scripts.<p><i>This library script will not work by itself.</i>"
+  "longDesc": "A central nervous system for consult scripts.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/clilinks/code/", 
@@ -501,7 +501,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13096-CLI-Links-easily-add-CLI-power-to-your-relay-script", 
   "shortDesc": "Adds CLI commands to relay scripts", 
   "category": "library", 
-  "longDesc": "Adds CLI commands to relay scripts.<p><i>This library script will not work by itself.</i>"
+  "longDesc": "Adds CLI commands to relay scripts.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/formhtml/code/", 
@@ -510,7 +510,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3842-Form-of-HTML!", 
   "shortDesc": "Code library to add input forms for relay scripts", 
   "category": "library", 
-  "longDesc": "Code library to add input forms for relay scripts.<p><i>This library script will not work by itself.</i>"
+  "longDesc": "Code library to add input forms for relay scripts.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/zlib/code/", 
@@ -519,7 +519,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2072-ZLib-Zarqon-s-useful-function-library", 
   "shortDesc": "Zarqon's general function library for scripting", 
   "category": "library", 
-  "longDesc": "Zarqon's general function library for scripting.<p><i>This library script will not work by itself.</i>"
+  "longDesc": "Zarqon's general function library for scripting.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bestbetweenbattle/code/", 
