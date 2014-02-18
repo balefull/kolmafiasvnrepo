@@ -483,7 +483,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-%28WHAM%29", 
   "shortDesc": "All-knowing CCS", 
   "category": "combat", 
-  "longDesc": "This is a custom combat script.  It kills all the things."
+  "longDesc": "This is a custom combat script. It kills all the things."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/batbrain/code/", 
@@ -492,7 +492,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?6445-BatBrain-a-central-nervous-system-for-consult-scripts", 
   "shortDesc": "A central nervous system for consult scripts", 
   "category": "library", 
-  "longDesc": "A central nervous system for consult scripts. <i>This library script will not work by itself.</i>"
+  "longDesc": "A central nervous system for consult scripts.<p><i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/clilinks/code/", 
@@ -501,7 +501,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13096-CLI-Links-easily-add-CLI-power-to-your-relay-script", 
   "shortDesc": "Adds CLI commands to relay scripts", 
   "category": "library", 
-  "longDesc": "Adds CLI commands to relay scripts. <i>This library script will not work by itself.</i>"
+  "longDesc": "Adds CLI commands to relay scripts.<p><i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/formhtml/code/", 
@@ -510,7 +510,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?3842-Form-of-HTML!", 
   "shortDesc": "Code library to add input forms for relay scripts", 
   "category": "library", 
-  "longDesc": "Code library to add input forms for relay scripts. <i>This library script will not work by itself.</i>"
+  "longDesc": "Code library to add input forms for relay scripts.<p><i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/zlib/code/", 
@@ -519,7 +519,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2072-ZLib-Zarqon-s-useful-function-library", 
   "shortDesc": "Zarqon's general function library for scripting", 
   "category": "library", 
-  "longDesc": "Zarqon's general function library for scripting. <i>This library script will not work by itself.</i>"
+  "longDesc": "Zarqon's general function library for scripting.<p><i>This library script will not work by itself.</i>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bestbetweenbattle/code/", 
@@ -528,7 +528,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1240-Best-Between-Battle-Script-Ever", 
   "shortDesc": "Manages gazoodles of between battle stuff", 
   "category": "other", 
-  "longDesc": "Manages gazoodleshortDescs of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more."
+  "longDesc": "Manages gazoodleshortDescs of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:50px;'>Before this will work, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set betweenBattleScript=BestBetweenBattle.ash</span></p></div>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/lootbot/", 
