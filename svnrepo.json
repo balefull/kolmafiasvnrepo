@@ -180,6 +180,15 @@
   "longDesc": "This script tries to look over your sushi-eating options and make the best choices based on a given meat-per-adventure. It can be used directly or imported into another script as described in the associated thread."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/mafiarecovery/code/", 
+  "author": "Bale", 
+  "name": "Universal Recovery", 
+  "forumThread": "http://kolmafia.us/showthread.php?1780-Universal-Recovery-Script", 
+  "shortDesc": "Automated Recovery", 
+  "category": "action", 
+  "longDesc": "This script will change kolMafia's default healing functions to make the most of your available items in hardcore/ronin or make the most of your meat if you have access to the mall. That makes this a great restoration improvement for both ascenders <i>and</i> farmers.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:50px;'>Before this will work, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set recoveryScript = Universal_recovery</span></p></div>"
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
   "author": "Bale", 
   "name": "Adventure Advisor", 
@@ -519,7 +528,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1240-Best-Between-Battle-Script-Ever", 
   "shortDesc": "Manages gazoodles of between battle stuff", 
   "category": "other", 
-  "longDesc": "Manages gazoodles of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more."
+  "longDesc": "Manages gazoodleshortDescs of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/lootbot/", 
@@ -528,7 +537,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13620-LootBot-A-dungeon-loot-auto-seller-(is-you)", 
   "shortDesc": "Sell dungeon loot, lazily", 
   "category": "other", 
-  "longDesc": "This is an experimental thing to make selling untradeable dungeon loot only marginally more complicated than Mall-selling."
+  "longDesc": "This is an experimental thing intended to make selling untradeable dungeon loot only marginally more complicated than Mall-selling."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
@@ -537,9 +546,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2769-Scripting-the-birth-of-a-new-life", 
   "shortDesc": "Scripting the birth of a new ascension", 
   "category": "other", 
-  "longDesc": "Scripting the birth of a:  new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear..."
+  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear...<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:50px;'>Before this will work, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set postAscensionScript = newLife.ash</span></p></div>"
  }
 ]
-: 
-: 
-: 
+
