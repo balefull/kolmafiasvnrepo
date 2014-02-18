@@ -78,7 +78,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12625-Pork-to-the-Future-Cyrus-Hyboria-Future-and-Wumpus!", 
   "shortDesc": "Automates the agua de vida quests", 
   "category": "adventure", 
-  "longDesc": "A script to automatically complete:<ol><li><b>Primordial Fear</b> (be Cyrus's punching bag)</li><li><b>Hyboria</b> (Krakrox does manly things), including Hunt the Wumpus</li><li><b>Future</b> (collect elemental essences)</li></ol>...and get you a nifty <i>Secret from the Future</i>."
+  "longDesc": "A script to automatically complete:<ol><li><b>Primordial Fear</b>: Be Cyrus's punching bag</li><li><b>Hyboria</b>: Krakrox does manly things <i>(includes Hunt the Wumpus)</i></li><li><b>Future</b>: Collect elemental essences</li></ol>...and get you a nifty <i>Secret from the Future</i>."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/thesea/code/", 
@@ -204,7 +204,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2027-CanAdv-check-whether-you-can-adventure-at-a-given-location", 
   "shortDesc": "Check if you \"Can Adventure\" at a location", 
   "category": "information", 
-  "longDesc": "Check whether you can adventure at any given location.<p><i>This is most useful when imported into other scripts.</i>"
+  "longDesc": "Check whether you can adventure at any given location.<p style='text-align:center;font-style:italic'>This is most useful when imported into other scripts and may be automatically installed by them.</p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/kolmafiascripts/cfstat/code/", 
@@ -258,7 +258,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?13293-Psychose-a-Matic-one-stop-NPC-psychiatric-management", 
   "shortDesc": "One-stop psychoanalytic jar management", 
   "category": "information", 
-  "longDesc": "The psychoanalytic jars dropped by the Angry Jung Man add a <i>lot</i> of fun content to KoL. Each jar is a flavorful mini-quest with a sweet sword for a reward. It can be tedious, however, to manage everything -- the jars are in your inventory, the NPCs are all over the kingdom, the couch is in your campground, and all the quest information you might want to seek out is on the Wiki. When I was setting out to experience all the jar content for myself, I immediately realized a script which organized this information and put it all in one place would be a big click-reducing asset to completing the jars. Hence, this script."
+  "longDesc": "The psychoanalytic jars dropped by the Angry Jung Man add a <i>lot</i> of fun content to KoL. Each jar is a flavorful mini-quest with a sweet sword for a reward. It can be tedious, however, to manage everything -- the jars are in your inventory, the NPCs are all over the kingdom, the couch is in your campground, and all the quest information you might want to seek out is on the Wiki.<p>When I was setting out to experience all the jar content for myself, I immediately realized a script which organized this information and put it all in one place would be a big click-reducing asset to completing the jars. Hence, this script."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/task_list/trunk/", 
@@ -281,11 +281,11 @@
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/cocktailmax/trunk/", 
   "author": "rlbond86", 
-  "name": "Superhuman Cocktailcrafting maximizer", 
+  "name": "Superhuman Cocktail Maximizer", 
   "forumThread": "http://kolmafia.us/showthread.php?11488-Superhuman-Cocktailcrafting-maximizer", 
   "shortDesc": "Calculates which drinks to superhumanly cocktailcraft", 
   "category": "information", 
-  "longDesc": "Have Superhuman Cocktailcrafting and a bunch of ingredients? Don't know how to make the most drinks out of all your stuff? Not sure what to use your still charges for?<p>Enter the Cocktailcrafting Maximizer. The script will run a linear program to determine how to maximize your still uses and what drinks to create. It will try to first maximize the total number of drinks you can make, breaking ties by total profit."
+  "longDesc": "Have Superhuman Cocktailcrafting and a bunch of ingredients? Don't know how to make the most drinks out of all your stuff? Not sure what to use your still charges for?<p>Enter this Cocktailcrafting Maximizer. The script will run a linear program to determine how to maximize your still uses and what drinks to create. It will try to first maximize the total number of drinks you can make, breaking ties by total profit.<p>The script won't actually do anything when you run it. You'll have to create the drinks yourself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/towerchecker/code/", 
@@ -294,7 +294,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?9381-Tower-Checker", 
   "shortDesc": "Naughty Sorceress' Tower checklist", 
   "category": "information", 
-  "longDesc": "This script gives information about what you have and still need for climbing the tower. It gives the same information as the <b>telescope</b> command, plus lets you know if you need a drum, guitar, star items, keys, and an item for the final boss. This stuff is mostly so you don't forget to farm/pull an item before reaching the tower."
+  "longDesc": "This script gives information about what you have and still need for climbing the tower. It gives the same information as the <span style='font-weight:bold;font-family:monospace'>telescope</span> command, plus it lets you know if you need a drum, guitar, star items, keys or an item for the final boss. This is mostly so you don't forget to farm/pull an item before reaching the tower."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/campground/", 
@@ -303,7 +303,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Additional functionality for your campground", 
   "category": "relay", 
-  "longDesc": "Adds several nice features to your campground:<ul><li><b>Telescope</b>: When you \"Look Low\" it adds detail, telling you exactly what items you need to kill the tower monsters.</li><li><b>Bookshelf</b>: Tells you how many tome and libram summons you have done today.</li><li><b>Workshed</b>: Allows easy switching of workshed appliances if you haven't done so today.</li></ul>"
+  "longDesc": "Adds several nice features to your campground:<ul><li><b>Telescope</b>: When you \"Look Low\" it adds detail, telling you exactly what items you need to kill the tower monsters and where to find them.</li><li><b>Bookshelf</b>: Tells you how many tome and libram summons you have done today.</li><li><b>Workshed</b>: Allows easy switching of workshed appliances if you haven't done so today.</li></ul>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/mall_storeLinks/", 
@@ -328,7 +328,7 @@
   "author": "Bale", 
   "name": "Bale's Topmenu", 
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
-  "shortDesc": "topmenu skinned for increased functionality", 
+  "shortDesc": "Topmenu skinned for increased functionality", 
   "category": "relay", 
   "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>The moons link to the Noblesse Oblige calendar.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li></ul>"
  }, 
@@ -357,7 +357,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?7594-Character-Info-Toolbox", 
   "shortDesc": "Character Pane Replacement", 
   "category": "relay", 
-  "longDesc": "This skins your left pane to make everything easier to see at the same time. It adds a lot of great tools like an outfit switcher, MCD control and Florist plant visibility and control. It is also so beautifully shiny that your entire life will be better."
+  "longDesc": "This skins your left pane to make everything easier to see at the same time. It also adds a lot of great tools such as an outfit switcher, MCD control and Florist plant visibility and control. It is so shiny and awesome that your entire life will be better and you'll wonder how you ever lived without it... at least that is what everyone tells me."
  }, 
 {
   "repo": "https://svn.code.sf.net/p/relay-charsheet/code/", 
@@ -420,7 +420,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11388-Monster-Manuel-Improved", 
   "shortDesc": "Lets big monsters be big in KoL's Monster Manuel", 
   "category": "relay", 
-  "longDesc": "Lets big monsters be big in KoL's Monster Manuel.<p>This also adds annotations for ambiguous monsters such as which Nightstand is which, the toolbearing Gremlins and the version of the El Vibrato monsters that you get from the translator."
+  "longDesc": "Lets big monsters be big in KoL's Monster Manuel.<p>This also adds annotations for ambiguous monsters such as which Nightstand is which, the toolbearing Gremlins, the version of the El Vibrato monsters that you get from the translator and quite a few others."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/manor_unlockInfo/", 
@@ -429,7 +429,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Get full status on Manor unlocking from ground floor", 
   "category": "relay", 
-  "longDesc": "Display full status of Manor unlocking from the ground floor."
+  "longDesc": "Display full status of Manor unlocking when viewing the ground floor."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
@@ -447,7 +447,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Pop-ups descriptions link to entry on KoL Wiki", 
   "category": "relay", 
-  "longDesc": "This alters KoL's pop-up windows, making the title of the window into a link to its entry on the KoL Wiki. The affects pop-up descriptions for effect, familiar, item, outfit, skill and Pasta Thrall."
+  "longDesc": "This alters KoL's pop-up windows, making the title of the window into a link to its entry on the KoL Wiki. This improves the pop-up descriptions for effect, familiar, item, outfit, skill and Pasta Thrall."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/woods_questStart/", 
@@ -456,7 +456,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Get transfunctioner and screwdriver automatically", 
   "category": "relay", 
-  "longDesc": "Get the continuum transfunctioner and screwdriver when woods are first visited"
+  "longDesc": "Automatically get the continuum transfunctioner and screwdriver when woods are first visited. This saves some repetitive clicking at the beginning of your ascension."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/batman-re/code/", 
@@ -465,7 +465,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?10042-BatMan-Relay-more-info-less-clicking", 
   "shortDesc": "Provides advanced combat interface in browser", 
   "category": "combat", 
-  "longDesc": "Provides advanced combat HUD and automation in the relay browser.  "
+  "longDesc": "Provides advanced combat HUD and automation in the relay browser. It will display recommended actions to complete combat and solve quests. You can them execute them as a macro by clicking."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/smartstasis/code/", 
@@ -546,7 +546,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2769-Scripting-the-birth-of-a-new-life", 
   "shortDesc": "Scripting the birth of a new ascension", 
   "category": "other", 
-  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping starting gear...<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set postAscensionScript = newLife.ash</span></p></div>"
+  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping your starting gear...<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set postAscensionScript = newLife.ash</span></p></div>"
  }
 ]
 
