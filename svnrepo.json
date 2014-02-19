@@ -186,7 +186,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1780-Universal-Recovery-Script", 
   "shortDesc": "Automated Recovery", 
   "category": "action", 
-  "longDesc": "This script will change kolMafia's default healing functions to make the most of your available items in hardcore/ronin or make the most of your meat if you have access to the mall. That makes this a great restoration improvement for both ascenders <i>and</i> farmers.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set recoveryScript = Universal_recovery.ash</span></p></div>"
+  "longDesc": "This script will change kolMafia's default healing functions to make the most of your available items in hardcore/ronin or make the most of your meat if you have access to the mall. That makes this a great restoration improvement for both ascenders <i>and</i> farmers.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set recoveryScript = Universal_recovery.ash</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
@@ -285,7 +285,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?11488-Superhuman-Cocktailcrafting-maximizer", 
   "shortDesc": "Calculates which drinks to superhumanly cocktailcraft", 
   "category": "information", 
-  "longDesc": "Have Superhuman Cocktailcrafting and a bunch of ingredients? Don't know how to make the most drinks out of all your stuff? Not sure what to use your still charges for?<p>Enter this Cocktailcrafting Maximizer. The script will run a linear program to determine how to maximize your still uses and what drinks to create. It will try to first maximize the total number of drinks you can make, breaking ties by total profit.<p>The script won't actually do anything when you run it. You'll have to create the drinks yourself."
+  "longDesc": "Have Superhuman Cocktailcrafting and a bunch of ingredients? Don't know how to make as many drinks as possible out of all your stuff? Not sure what to use your still charges for?<p>Enter this Cocktailcrafting Maximizer. The script will run a linear program to determine how to maximize your still uses and what drinks to create. It will try to first maximize the total number of drinks you can make, breaking ties by total profit.<p>The script won't actually do anything when you run it. You'll have to create the drinks yourself."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/towerchecker/code/", 
@@ -474,7 +474,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1715-SmartStasis-a-complex-script-for-a-simple-CCS", 
   "shortDesc": "Automates stasis and other non-lethal combat", 
   "category": "combat", 
-  "longDesc": "Automates stasis and all other times you don't kill a monster such as insulting pirates and flyering."
+  "longDesc": "Automates stasis and everything else that doesn't kill a monster such as insulting pirates and flyering.<p style='border:1px solid red;padding:5px 10px 5px 10px;margin-left:40px;margin-right:40px;'>To make this work, you need to put <span style='font-weight:bold;font-family:monospace;'>consult SmartStasis.ash</span> into your CCS along with a method of killing the monsters.</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
@@ -483,7 +483,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-WHAM", 
   "shortDesc": "All-knowing CCS", 
   "category": "combat", 
-  "longDesc": "This is a custom combat script. It kills all the things."
+  "longDesc": "This is a custom combat script. First it makes use of every trick known by SmartStasis and then... <b>It kills all the things</b>.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work, you need to put the following lines into your CCS:<br /><span style='font-family:monospace'>[ default ]<br />consult WHAM.ash</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/batbrain/code/", 
@@ -528,7 +528,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1240-Best-Between-Battle-Script-Ever", 
   "shortDesc": "Manages gazoodles of between battle stuff", 
   "category": "other", 
-  "longDesc": "Manages gazoodles of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set betweenBattleScript=BestBetweenBattle.ash</span></p></div>"
+  "longDesc": "Manages gazoodles of between battle stuff. That includes choice adventure default options, turtle taming, switching item drop familiars and much more.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set betweenBattleScript=BestBetweenBattle.ash</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/lootbot/", 
@@ -546,7 +546,6 @@
   "forumThread": "http://kolmafia.us/showthread.php?2769-Scripting-the-birth-of-a-new-life", 
   "shortDesc": "Scripting the birth of a new ascension", 
   "category": "other", 
-  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping your starting gear...<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set postAscensionScript = newLife.ash</span></p></div>"
+  "longDesc": "Scripting the birth of a new ascension. This sets optimal choice adventure defaults for your class and ascension path. It also does a few repetitive housekeeping chores such as visiting the Toot Oriole, opening your pork sack, using your Newbie Tent, equipping your starting gear...<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set postAscensionScript = newLife.ash</span></p>"
  }
 ]
-
