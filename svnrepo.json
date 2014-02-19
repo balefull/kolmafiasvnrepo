@@ -33,7 +33,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?2519-CounterChecker-Wormwood-Semi-rares-Dance-Cards-and-more", 
   "shortDesc": "Manage automation for KoLmafia counters", 
   "category": "adventure", 
-  "longDesc": "This script will automatically handle all your counters automatically. Supported Counters:<ul><li><b>Fortune Cookie</b>: If you're not in hardcore it will get the available semi-rare with highest mall price.</li><li><b>Wormwood</b>: Will automatically get the wormwood goal of your choice.<br />You can set the goal in CLI with: <i>set wormwood = goal</i></li><li><b>Dance Card</b>: Will adventure in Ballroom, if you're not already there and use another dance card.</li></ul>"
+  "longDesc": "This script will automatically handle all your counters automatically. Supported Counters:<ul><li><b>Fortune Cookie</b>: If you're not in hardcore it will get the available semi-rare with highest mall price.</li><li><b>Wormwood</b>: Will automatically get the wormwood goal of your choice. <i>(see instructions in thread)</i></i></li><li><b>Dance Card</b>: Will adventure in Ballroom, if you're not already there and use another dance card.</li></ul><p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin:5px 40px 0px 40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set counterScript = CounterChecker.ash</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/mafia-harvest/code/", 
