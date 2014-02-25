@@ -474,7 +474,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?1715-SmartStasis-a-complex-script-for-a-simple-CCS", 
   "shortDesc": "Automates stasis and other non-lethal combat", 
   "category": "combat", 
-  "longDesc": "Automates stasis and everything else that doesn't kill a monster such as insulting pirates and flyering.<p style='border:1px solid red;padding:5px 10px 5px 10px;margin-left:40px;margin-right:40px;'>To make this work, you need to put <span style='font-weight:bold;font-family:monospace;'>consult SmartStasis.ash</span> into your CCS along with a method of killing the monsters.</span></p>"
+  "longDesc": "Automates stasis and everything else that doesn't kill a monster such as insulting pirates and flyering.<p style='border:1px solid red;padding:5px 10px 5px 10px;margin-left:40px;margin-right:40px;'>To make this work, you need to put <span style='font-weight:bold;font-family:monospace;'>consult SmartStasis.ash</span> into your CCS followed by a method of killing the monsters.</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/winterbay-mafia/wham/code/", 
@@ -483,7 +483,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?8861-Winterbay-s-Helpful-Automatic-Monsterbasher-WHAM", 
   "shortDesc": "All-knowing CCS", 
   "category": "combat", 
-  "longDesc": "This is a custom combat script. First it makes use of every trick known by SmartStasis and then... <b>It kills all the things</b>.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work, you need to put the following lines into your CCS:<br /><span style='font-family:monospace'>[ default ]<br />consult WHAM.ash</span></p>"
+  "longDesc": "This is a custom combat script. First it makes use of every trick known by SmartStasis and then...<br /><b>It kills all the things</b>.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work, you need to put the following lines into your CCS:<br /><span style='font-family:monospace'>[ default ]<br />consult WHAM.ash</span></p>"
  }, 
  {
   "repo": "https://svn.code.sf.net/p/batbrain/code/", 
