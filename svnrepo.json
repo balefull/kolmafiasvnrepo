@@ -9,7 +9,7 @@
   "longDesc": "Automates Fernswarthy's Basement: <ul><li>Creates and switches oufits</li><li>Uses cheapest buffs needed for necessary buffing</li><li>User perference to use Dr. Lucifer or other food/drink/spleen items.</li></ul>See thread for full list of options."
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
+  "repo": "https://svn.code.sf.net/p/autobhh/code/", 
   "author": "Theraze, izchak, Raorn, Zarqon", 
   "name": "Bounty", 
   "forumThread": "http://kolmafia.us/showthread.php?1023-auto-BHH-and-friends", 
