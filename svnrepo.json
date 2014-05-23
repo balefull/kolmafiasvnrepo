@@ -9,6 +9,15 @@
   "longDesc": "Automates Fernswarthy's Basement: <ul><li>Creates and switches oufits</li><li>Uses cheapest buffs needed for necessary buffing</li><li>User perference to use Dr. Lucifer or other food/drink/spleen items.</li></ul>See thread for full list of options."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/new-life/code/", 
+  "author": "Theraze, izchak, Raorn, Zarqon", 
+  "name": "Auto BHH", 
+  "forumThread": "http://kolmafia.us/showthread.php?1023-auto-BHH-and-friends", 
+  "shortDesc": "Automatic Bounty Hunter Hunter", 
+  "category": "adventure", 
+  "longDesc": "The purpose of this script is to automatically go to the Bounty Hunter Hunter, accept bounties, hunt them and turn in the completed bounties for lucre."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/bumcheekascend/code/bumcheekascend/", 
   "author": "bumcheekcity, Winterbay", 
   "name": "Bumcheekcend", 
