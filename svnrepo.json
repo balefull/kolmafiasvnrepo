@@ -486,6 +486,42 @@
   "longDesc": "Automatically get the continuum transfunctioner and screwdriver when woods are first visited. This saves some repetitive clicking at the beginning of your ascension."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/relaywtf/code/famswtf/", 
+  "author": "ckb", 
+  "name": "WTF Familiars", 
+  "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
+  "shortDesc": "Display familiar information from terrarium", 
+  "category": "relay", 
+  "longDesc": "I have a lot of familiars. And the list is growing. And I can't keep track of what they all do. WTF? How am I supposed to remember exactly how 100+ vaguely named creatures perform? I cannot. I know the hipster does lots of stuff and gives free fights... and so does the goth kid. But the goth kid is really a fairy right? No, its a volleyball. Or a leprechaun... I don't remember.<p>I could look this up on the wiki over and over. And I used to. Then I wrote this relay script to tell me."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/relaywtf/code/shopwtf/", 
+  "author": "ckb", 
+  "name": "WTF Shops", 
+  "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
+  "shortDesc": "Help with the Dungeon Vending Machine", 
+  "category": "relay", 
+  "longDesc": "For the Daily Dungeon Vending Machine, this will show you which keys you have and which keys you do not have. It will take away the link to buy keys you already have. It will also check if you have a key lime pie in your inventory, and show that you DO have the key IF you have the pie.<p>This is because I am forgetful and will pull a pie AND buy the key at the same time, and that sucks."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/relaywtf/code/skillswtf/", 
+  "author": "ckb", 
+  "name": "WTF Skills", 
+  "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
+  "shortDesc": "Skill list is sorted, clickable and informative", 
+  "category": "relay", 
+  "longDesc": "When casting skills and buffs from the relay browser, they are color coded to help distinguish types. Active effects from skills are highlighted.<p>The incentive here is that I found myself going to the skills page to buff up and forgetting what each skill does and which skills I had already cast and which ones were single effect only (songs and expressions).  This should make that more clear and more easy."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/relaywtf/code/vipwtf/", 
+  "author": "ckb", 
+  "name": "WTF VIP Hot Dogs", 
+  "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
+  "shortDesc": "Help with the VIP Hot Dog Stand menu", 
+  "category": "relay", 
+  "longDesc": "Hot dogs from the VIP lounge are totally sweet -- awesome food, great in HC, and they give some totally sweet effects, and I don't remember what any of them do. To find out, clicking the dog will open up an info box, which has a link to the effect, which will give its description.<p>Or shortcut that process and use this script to tell you what each does."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/batman-re/code/", 
   "author": "zarqon", 
   "name": "BatMan RE", 
