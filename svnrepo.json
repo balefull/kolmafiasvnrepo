@@ -517,9 +517,9 @@
   "author": "ckb", 
   "name": "WTF VIP Lounge", 
   "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
-  "shortDesc": "Help with the VIP Hot Dog Stand menu", 
+  "shortDesc": "Help with the VIP Concession Stands", 
   "category": "relay", 
-  "longDesc": "Hot dogs from the VIP lounge are totally sweet -- awesome food, great in HC, and they give some totally sweet effects, and I don't remember what any of them do. To find out, clicking the dog will open up an info box, which has a link to the effect, which will give its description.<p>Or shortcut that process and use this script to tell you what each does."
+  "longDesc": "Hot dogs and Speakeasy Drinks from the VIP lounge are totally sweet -- awesome food, great in HC, and they give some totally sweet effects, but I don't remember what any of them do. To find out, clicking the item will open up an info box, which has a link to the effect, which you can click to give its description.<p>Or you can shortcut that process by using this script to tell you what each does."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/batman-re/code/", 
