@@ -306,11 +306,11 @@
   "longDesc": "This is an informational script very similar to BCC's profile snapshot, but with some critical differences. All the information is stored locally, rather than online. The layout is a little different, and customizable to your liking. It shows familiars, trophies, tattoos and skills. The skills come with a nice little queue so that you can drag and drop them into place and sort them based on priority."
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/winterbay-mafia/autobasement/code/", 
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/slimecalc/", 
   "author": "guyy", 
   "name": "Slimecalc", 
   "forumThread": "http://kolmafia.us/showthread.php?3113-autoBasement-ash-Better-basement-automation", 
-  "shortDesc": "The slime... calculator", 
+  "shortDesc": "The slime calculator, for efficient Slimetubing", 
   "category": "information", 
   "longDesc": "This is a tool for finding the best (i.e. cheapest) way to boost Slimetube ML for a specific turncount.<p>The basic CLI command is <span style='font-weight:bold;font-family:monospace;color:blue'>slimecalc [number of turns]</span> to aim for a certain turncount. Default is 229, for a slimeling, but this may be impossible if you don't have enough Slime Hates It gear.<p>Additional functionality is explained in the forum thread."
  }, 
