@@ -548,6 +548,15 @@
   "category": "combat", 
   "longDesc": "Provides advanced combat HUD and automation in the relay browser. It will display recommended actions to complete combat and solve quests. You can them execute them as a macro by clicking."
  }, 
+  {
+  "repo": "http://extraction-afteradv-ccs.googlecode.com/svn/trunk/", 
+  "author": "digitrev", 
+  "name": "extraction", 
+  "forumThread": "http://kolmafia.us/showthread.php?15383-extraction-ash-Automated-Gene-Extraction", 
+  "shortDesc": "Automates use of the DNA Lab",
+  "category": "combat",
+  "longDesc": "This is a two-part script for using the DNA syringe. The first part is a custom combat script that will automatically extract the DNA you want. The second part is an afteradventure script, to automate creation of gene tonics or hybridization.<p>See the forum post for details on setup."
+ },
  {
   "repo": "https://svn.code.sf.net/p/smartstasis/code/", 
   "author": "zarqon", 
