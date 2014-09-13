@@ -377,6 +377,15 @@
   "category": "relay", 
   "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>The moons link to the Noblesse Oblige calendar.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li></ul>"
  }, 
+{
+  "repo": "https://svn.code.sf.net/p/ckbiconmenu/code/", 
+  "author": "ckb", 
+  "name": "ckb's Iconic topmenu", 
+  "forumThread": "http://kolmafia.us/showthread.php?16445-ckb-s-Iconic-topmenu", 
+  "shortDesc": "Alternate topmenu relay overide, with fun icons!", 
+  "category": "relay", 
+  "longDesc": "Changes KoL's link style top menu into something similar to KoL's iconic top menu, but an original creation.<p>Icons are smaller than KoLs menu, and so this is more compact, and it does not have the large description popup (alt text only), and I added some color highlighting to more easily find what you want. The basic structure is utility on line 1, locations on line 2."
+ },
  {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/bounty_hunter_helper/trunk/", 
   "author": "rlbond86", 
