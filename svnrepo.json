@@ -234,6 +234,15 @@
   "longDesc": "This script will change kolMafia's default healing functions to make the most of your available items in hardcore/ronin or make the most of your meat if you have access to the mall. That makes this a great restoration improvement for both ascenders <i>and</i> farmers.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set recoveryScript = Universal_recovery.ash</span></p>"
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/eodascensionchecklist/code/", 
+  "author": "Eliteofdelete", 
+  "name": "Ascension Checklist Handler", 
+  "forumThread": "http://kolmafia.us/showthread.php?17230-EoD-SC-Ascension-Checklist-Handler", 
+  "shortDesc": "Helps with daily pulls", 
+  "category": "information", 
+  "longDesc": "This stores all your ascension relevant items into an easy to view relay script, based on on a variety of factors such as path, class and astral items. It helps you build a pull lists based on the factors that matter to you. It will even alert you to type69 status if your path is current. Finally, it will help you to buy and pull items in run based on your decisions."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
   "author": "Bale", 
   "name": "Adventure Advisor", 
