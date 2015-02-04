@@ -504,6 +504,15 @@
   "longDesc": "Display full status of Manor unlocking when viewing the ground floor."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/ns-tower-relay/code/", 
+  "author": "Bale", 
+  "name": "NS Tower Scroller", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Automatically scrolls the Sorceress' Tower", 
+  "category": "relay", 
+  "longDesc": "Automatically scrolls down the Naughty Sorceress' Tower to the currently active position."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
   "author": "guyy", 
   "name": "TrophyTastic", 
