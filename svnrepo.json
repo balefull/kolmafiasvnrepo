@@ -513,6 +513,15 @@
   "longDesc": "Automatically scrolls down the Naughty Sorceress' Tower to the currently active position."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/spelunky/code/", 
+  "author": "Bale", 
+  "name": "Spelunky Reference", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Adds helpful Spelunkin' non-combat information", 
+  "category": "relay", 
+  "longDesc": "Adds helpful Spelunkin' non-combat information to the Spelunky map."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
   "author": "guyy", 
   "name": "TrophyTastic", 
