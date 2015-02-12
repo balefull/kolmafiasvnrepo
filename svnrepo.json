@@ -510,7 +510,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Automatically scrolls the Sorceress' Tower", 
   "category": "relay", 
-  "longDesc": "Automatically scrolls down the Naughty Sorceress' Tower to the currently active position."
+  "longDesc": "You know how the new NS Tower is this ridiculously long page that you have to keep scrolling down to reach the bottom? Install this script to scroll that for you."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/bale/spelunky/code/", 
@@ -519,7 +519,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Adds helpful Spelunkin' non-combat information", 
   "category": "relay", 
-  "longDesc": "Adds helpful Spelunkin' non-combat information to the Spelunky map."
+  "longDesc": "The most confusing thing about playing the Spelunkin' minigame is keeping track of the non-combats. This adds helpful information about all the Spelunkin' non-combat information to the Spelunky map as well as information about which non-combat to expect next."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
