@@ -558,6 +558,15 @@
   "longDesc": "I have a lot of familiars. And the list is growing. And I can't keep track of what they all do. WTF? How am I supposed to remember exactly how 100+ vaguely named creatures perform? I cannot. I know the hipster does lots of stuff and gives free fights... and so does the goth kid. But the goth kid is really a fairy right? No, its a volleyball. Or a leprechaun... I don't remember.<p>I could look this up on the wiki over and over. And I used to. Then I wrote this relay script to tell me."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/relaywtf/code/inventorywtf/", 
+  "author": "ckb", 
+  "name": "WTF Inventory", 
+  "forumThread": "http://kolmafia.us/showthread.php?15696-WTF-Relay-script-collection", 
+  "shortDesc": "Display information about items in your inventory", 
+  "category": "relay", 
+  "longDesc": "Updates your inventory page with WTF-style descriptions for items and effects. This is a modified version of rlbond86's Enhanced Inventory Spoilers, which is a modified version on my original Inventory SPOILERZ relay override script. It will display information about the items in your inventory below their name.<p>This script uses the same basic WTF code as the others, so you get standardized colors and fonts and look and feel."
+ },
+ {
   "repo": "https://svn.code.sf.net/p/relaywtf/code/shopwtf/", 
   "author": "ckb", 
   "name": "WTF Shops", 
