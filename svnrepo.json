@@ -36,6 +36,15 @@
   "longDesc": "Simply complete the quest and unlock the Elvish Paradise, run bumpork.ash and it should work fine."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/cartouchehunter/svn/", 
+  "author": "ungawa", 
+  "name": "CartoucheHunter", 
+  "forumThread": "http://kolmafia.us/showthread.php?18121-CartoucheHunter", 
+  "shortDesc": "Seaches for Ed's Cartouches throughout the Kingdom", 
+  "category": "adventure", 
+  "longDesc": "This script will adventure in every zone where you have not yet adventured today and aborts if you find a cartouche. It checks your session log for information about where you have adventured, so it knows if you already found one today and if you abort prematurely, it will pick up where it left off.<p>Before running the script, <b><u>the player</u></b> needs to:<ul><li>Equip the Crown of Ed and pirate fledges</li><li>Maximize +combat%</li></ul>"
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/bale/counterchecker/code/", 
   "author": "Bale", 
   "name": "CounterChecker", 
