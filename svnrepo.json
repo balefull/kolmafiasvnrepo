@@ -402,7 +402,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Topmenu skinned for increased functionality", 
   "category": "relay", 
-  "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>The moons link to the Noblesse Oblige calendar.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li></ul>"
+  "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>The moons link to the Noblesse Oblige calendar.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li><li>Does a few of these things for drop-down style menus also</li></ul>"
  }, 
 {
   "repo": "https://svn.code.sf.net/p/ckbiconmenu/code/", 
