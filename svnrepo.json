@@ -369,6 +369,15 @@
   "longDesc": "This script gives information about what you have and still need for climbing the tower. It gives the same information as the <span style='font-weight:bold;font-family:monospace'>telescope</span> command, plus it lets you know if you need a drum, guitar, star items, keys or an item for the final boss. This is mostly so you don't forget to farm/pull an item before reaching the tower."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/uberpvpoptimizer/svn/", 
+  "author": "UberFerret", 
+  "name": "UberPvPOptimizer", 
+  "forumThread": "http://kolmafia.us/showthread.php?18356-Fork%B2-UberPvPOptimizer-an-updated-PVPBestGear", 
+  "shortDesc": "Optimizes equipment for PvP", 
+  "category": "information", 
+  "longDesc": "This script will equip your character with equipment to maximize the value of current PVP minigames. It will use the best equipment in inventory or buy better gear if you enable that setting.<p>Updated through at least season 19."
+ },
+ {
   "repo": "https://svn.code.sf.net/p/bale/relay/code/campground/", 
   "author": "Bale", 
   "name": "Bale's Campground", 
