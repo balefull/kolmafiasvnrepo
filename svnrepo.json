@@ -288,15 +288,6 @@
   "longDesc": "DCQuest is an information gathering script for the Display Case completest. It looks at every displayable item that your version of Kolmafia knows about and writes tab delimited files with some annotation in the data subdirectory."
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/bumcheekascend/code/snapshot", 
-  "author": "bumcheekcity", 
-  "name": "Easy Snapshot Maker", 
-  "forumThread": "http://kolmafia.us/showthread.php?3001-bumcheekcity-s-Easy-Snapshot-Maker", 
-  "shortDesc": "Take a snapshot of your character to display", 
-  "category": "information", 
-  "longDesc": "This script will retrieve information about your character and store it on a website so everyone can see it."
- }, 
- {
   "repo": "https://github.com/Ezandora/Guide/branches/Release/", 
   "author": "Ezandora", 
   "name": "Guide", 
