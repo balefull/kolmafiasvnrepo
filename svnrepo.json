@@ -621,7 +621,7 @@
   "longDesc": "Provides advanced combat HUD and automation in the relay browser. It will display recommended actions to complete combat and solve quests. You can them execute them as a macro by clicking."
  }, 
   {
-  "repo": "http://extraction-afteradv-ccs.googlecode.com/svn/trunk/", 
+  "repo": "https://svn.code.sf.net/p/digitrev/code/extraction", 
   "author": "digitrev", 
   "name": "extraction", 
   "forumThread": "http://kolmafia.us/showthread.php?15383-extraction-ash-Automated-Gene-Extraction", 
