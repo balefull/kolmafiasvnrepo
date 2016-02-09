@@ -540,6 +540,15 @@
   "longDesc": "The most confusing thing about playing the Spelunkin' minigame is keeping track of the non-combats. This adds helpful information about all the Spelunkin' non-combat information to the Spelunky map as well as information about which non-combat to expect next."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/bale/snojo/code/", 
+  "author": "Bale", 
+  "name": "Snojo Training", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Provides information about Snojo training modes", 
+  "category": "relay", 
+  "longDesc": "Provides information about Snojo training modes. This including number of turns trained today, number of turns trained in each mode and how long until each possible prize."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
   "author": "guyy", 
   "name": "TrophyTastic", 
