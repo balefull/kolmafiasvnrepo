@@ -494,7 +494,16 @@
   "category": "relay", 
   "longDesc": "Displays the description for every skill at the Guild Trainer."
  }, 
- {
+  {
+  "repo": "https://svn.code.sf.net/p/bale/ltt/code/", 
+  "author": "Bale", 
+  "name": "LT&T Office", 
+  "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
+  "shortDesc": "Display full quest information for the LT&T Office", 
+  "category": "relay", 
+  "longDesc": "Do you have all the LT&T quest information memorized? With that information it can be hard to make an informed decision about which quest to select. When you go to the LT&T office in the relay browser, this will display full information concerning all possible quests. It will list the monsters you have to fight, the boss at the end, and any incidental prize of note along the way. In case you have trouble defeating the final boss, you can click the boss's name to see its entry on the KoL Wiki."
+ }, 
+{
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/modular_choice_override/trunk/", 
   "author": "rlbond86", 
   "name": "Modular Choice Override", 
