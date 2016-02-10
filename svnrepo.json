@@ -546,7 +546,7 @@
   "forumThread": "http://kolmafia.us/showthread.php?12644-Bale-s-Relay-Overrides", 
   "shortDesc": "Provides information about Snojo training modes", 
   "category": "relay", 
-  "longDesc": "Provides information about Snojo training modes. This including number of turns trained today, number of turns trained in each mode and how long until each possible prize."
+  "longDesc": "Provides information about Snojo training modes. This including number of turns trained today, number of turns trained in each mode and how many turns until each possible prize."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/trophytastic/", 
