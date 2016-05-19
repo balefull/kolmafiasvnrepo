@@ -324,13 +324,13 @@
   "longDesc": "This relay override shows a task list at the bottom of main.php displaying stuff you still need to do. Unlike some other scripts that might be similar, this one is <b>programmable</b> using ASH.<p>If you don't know anything about ASH programming, that's OK! The task list comes preprogrammed with all of the in-run main quests as well as some side quests and The Sea. It's quite functional even if you never touch the programmable aspect."
  }, 
  {
-  "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/planner/", 
-  "author": "Almighty Sapling", 
+  "repo": "http://svn.code.sf.net/p/mafia-cs-planner/svn/", 
+  "author": "Lxndr, Almighty Sapling", 
   "name": "Skill Planner/CS Tracker", 
   "forumThread": "http://kolmafia.us/showthread.php?5657-Skill-CS-planner", 
   "shortDesc": "Relay script detailing the characters skills and CS", 
   "category": "information", 
-  "longDesc": "This is an informational script very similar to BCC's profile snapshot, but with some critical differences. All the information is stored locally, rather than online. The layout is a little different, and customizable to your liking. It shows familiars, trophies, tattoos and skills. The skills come with a nice little queue so that you can drag and drop them into place and sort them based on priority."
+  "longDesc": "This is an informational script very similar to the profile snapshot, but with some critical differences. All the information is stored locally, rather than online. The layout is a little different, and semi-customizable to your liking. It shows familiars, trophies, tattoos and skills. The skills come with a nice little queue so that you can drag and drop them into place and sort them based on priority."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/slimecalc/", 
