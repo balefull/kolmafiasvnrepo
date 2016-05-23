@@ -459,8 +459,8 @@
   "longDesc": "On your charsheet it will sort your skills by character class."
  }, 
  {
-  "repo": "https://almighty-saplings-ash.googlecode.com/svn/trunk/raidlogs/", 
-  "author": "bordemstirs", 
+  "repo": "https://github.com/balefull/raidlog-parser/branches/master", 
+  "author": "Bale, bordemstirs", 
   "name": "Clan Raidlog Parser", 
   "forumThread": "http://kolmafia.us/showthread.php?8052-raidlog-override-a-la-Dr-Evi1", 
   "shortDesc": "Parse your clan dungeon Raidlogs", 
