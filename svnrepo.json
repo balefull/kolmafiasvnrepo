@@ -125,7 +125,7 @@
   "category": "adventure", 
   "longDesc": "This script will adventure in the slime tube, changing outfits to get the most turns of Coated in Slime possible, and wiping off the slime whenever you are no longer able to survive the damage you would receive combined from Coated in Slime, and the combat.<p>It will take advantage of Navel runaways and Bandersnatch runaways, and supports the following skills for damage calculations: Attack with weapon, Thrust-Smack, Lunging Thrust-Smack, Saucegeyser, Weapon of the Pastalord, Shieldbutt, Fearful Fetuccini and divines, both single and funkslung."
  }, 
-{
+ {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/spacetripper/", 
   "author": "guyy", 
   "name": "Space Tripper", 
@@ -170,7 +170,7 @@
   "category": "action", 
   "longDesc": "This script will help you optimize your gear for the PvP mini-games: Laconic Dresser, Verbosity Demonstration, Showing Initiative, The Egg Hunt, Meat Lover, Broad Resistance Contest, Lightest Load and Letter of the Moment. The script will check which mini-games are active and will retrieve the letter of the moment on each run.<p>There are options to buy cheap mall gear (default is 1k or less) superior to what you possess and provide a comprehensive list of the best gear in-game with wiki links to research how you may acquire it."
  }, 
-{
+ {
   "repo": "https://svn.code.sf.net/p/guyymafia/code/dreaddrunk/", 
   "author": "guyy", 
   "name": "DreadDrunk", 
@@ -215,7 +215,7 @@
   "category": "action", 
   "longDesc": "This script will allow you to choose the proper dispensation for absolutely every item that may be in your inventory. You can tell it exactly how many to keep of any given item, or tell it to keep all of them. It can put items in the mall, send items as gifts, mix keys into pies, use gift certificates, stock your display case or autosell trash items. <i>And more!</i><p>Okay, this script is honestly a little bit insane. It's somewhat nuts to list a method of dealing with every single item I may own. I use this because I want to cleanse my inventory before every hardcore ascension. It takes a bit of effort to make the list of everything, but now my inventory can be malled in a flash. If anyone else wants to take the trouble of making their own list it would do the same for them."
  }, 
-  {
+ {
   "repo": "https://svn.code.sf.net/p/fluxxdog-coding/code/trunk/superdrinks/", 
   "author": "fluxxdog", 
   "name": "Superdrinks for Fun and Profit", 
@@ -413,7 +413,7 @@
   "category": "relay", 
   "longDesc": "<ul><li>Adds a clan whitelist drop-down. Click on the name of any clan in your whitelist to go there!</li><li>Adds an image of the Florist Friar's Cottage. Seeing the image helps me remember to use him.</li><li>Adds an image of a Hobo Fort to link directly to the clan raid logs.</li><li>The moons link to the Noblesse Oblige calendar.</li><li>It adds a few helpful links like \"bean\" for over the beanstalk and \"manor\" for Spookyraven Manor.</li><li>It tries to be intelligent about only adding links as they become relevant.</li><li>Does a few of these things for drop-down style menus also</li></ul>"
  }, 
-{
+ {
   "repo": "https://svn.code.sf.net/p/ckbiconmenu/code/", 
   "author": "ckb", 
   "name": "ckb's Iconic topmenu", 
@@ -440,7 +440,7 @@
   "category": "relay", 
   "longDesc": "A buttontastic improvement to the interface of mall-stores and (most) NPC stores."
  }, 
-  {
+ {
   "repo": "https://svn.code.sf.net/p/mafiachit/code/", 
   "author": "Bale, Chez", 
   "name": "ChIT", 
@@ -449,7 +449,7 @@
   "category": "relay", 
   "longDesc": "This skins your left pane to make everything easier to see at the same time. It also adds a lot of great tools such as an outfit switcher, MCD control and Florist plant visibility and control. It is so shiny and awesome that your entire life will be better and you'll wonder how you ever lived without it... at least that is what everyone tells me."
  }, 
-{
+ {
   "repo": "https://svn.code.sf.net/p/relay-charsheet/code/", 
   "author": "Heeheehee, Theraze, Rinn", 
   "name": "Charsheet: Skills by Class", 
@@ -494,7 +494,7 @@
   "category": "relay", 
   "longDesc": "Displays the description for every skill at the Guild Trainer."
  }, 
-  {
+ {
   "repo": "https://svn.code.sf.net/p/bale/ltt/code/", 
   "author": "Bale", 
   "name": "LT&T Office", 
@@ -503,7 +503,7 @@
   "category": "relay", 
   "longDesc": "Do you have all the LT&T quest information memorized? With that information it can be hard to make an informed decision about which quest to select. When you go to the LT&T office in the relay browser, this will display full information concerning all possible quests. It will list the monsters you have to fight, the boss at the end, and any incidental prize of note along the way. In case you have trouble defeating the final boss, you can click the boss's name to see its entry on the KoL Wiki."
  }, 
-{
+ {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/modular_choice_override/trunk/", 
   "author": "rlbond86", 
   "name": "Modular Choice Override", 
@@ -638,7 +638,7 @@
   "category": "combat", 
   "longDesc": "Provides advanced combat HUD and automation in the relay browser. It will display recommended actions to complete combat and solve quests. You can them execute them as a macro by clicking."
  }, 
-  {
+ {
   "repo": "https://svn.code.sf.net/p/digitrev/code/extraction", 
   "author": "digitrev", 
   "name": "extraction", 
