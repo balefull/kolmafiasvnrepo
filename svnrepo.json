@@ -252,15 +252,6 @@
   "longDesc": "This stores all your ascension relevant items into an easy to view relay script, based on on a variety of factors such as path, class and astral items. It helps you build a pull lists based on the factors that matter to you. It will even alert you to type69 status if your path is current. Finally, it will help you to buy and pull items in run based on your decisions."
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/bale/advisor/code/", 
-  "author": "Bale", 
-  "name": "Adventure Advisor", 
-  "forumThread": "http://kolmafia.us/showthread.php?4367-Adventure-Advisor", 
-  "shortDesc": "Advice about adventure locations", 
-  "category": "information", 
-  "longDesc": "This cute relay UI script will display all relevant adventuring locations in the Kingdom along with information on safe adventuring."
- }, 
- {
   "repo": "https://svn.code.sf.net/p/therazekolmafia/canadv/code/", 
   "author": "Theraze, zarqon", 
   "name": "CanAdv", 
