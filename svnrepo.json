@@ -225,6 +225,15 @@
   "longDesc": "This script will allow you to choose the proper dispensation for absolutely every item that may be in your inventory. You can tell it exactly how many to keep of any given item, or tell it to keep all of them. It can put items in the mall, send items as gifts, mix keys into pies, use gift certificates, stock your display case or autosell trash items. <i>And more!</i><p>Okay, this script is honestly a little bit insane. It's somewhat nuts to list a method of dealing with every single item I may own. I use this because I want to cleanse my inventory before every hardcore ascension. It takes a bit of effort to make the list of everything, but now my inventory can be malled in a flash. If anyone else wants to take the trouble of making their own list it would do the same for them."
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/taleprank/", 
+  "author": "guyy", 
+  "name": "Tale Prank", 
+  "forumThread": "http://kolmafia.us/showthread.php?21303", 
+  "shortDesc": "Generates zany prank text", 
+  "category": "action", 
+  "longDesc": "Makes randomized remixes of Crimbo Tale, Monster Manuel, and other in-game sources. Sends the ridiculous results to unsuspecting players in time-spinner pranks or brick messages."
+ },
+ {
   "repo": "https://svn.code.sf.net/p/fluxxdog-coding/code/trunk/superdrinks/", 
   "author": "fluxxdog", 
   "name": "Superdrinks for Fun and Profit", 
