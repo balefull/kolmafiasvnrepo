@@ -711,6 +711,15 @@
   "longDesc": "Code library to add input forms for relay scripts.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/veracity0/code/vprops/", 
+  "author": "Veracity", 
+  "name": "vProps", 
+  "forumThread": "http://kolmafia.us/showthread.php?21593-Veracity-s-Property-Management-Library-vprops-ash", 
+  "shortDesc": "Veracity's property management library", 
+  "category": "library", 
+  "longDesc": "Functions to easily manage custom properties and convert back and forth between simple data types (and sets and lists of such) and a string representation which is suitable to store in such properties.<p style='text-align:center;font-style:italic'>This library script will not work by itself and may be automatically installed by other scripts.</p>"
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/zlib/code/", 
   "author": "zarqon", 
   "name": "ZLib", 
