@@ -144,9 +144,18 @@
   "longDesc": "Automates Halloween Trick or Treating. <ul style='margin:8 0 5 22'><li>Optional Configuration: Choose separate outfits named \"trick\" for combats and \"treat\" for non-combats. If you don't do this, then it will use your current equipment for all encounters.</li><li>If you encounter All-Hallow's Steve, it will abort so you can fight him yourself.</li><li>Check the mall prices for candies you acquire with your current equippable outfits if you type the following command in the CLI: <span style='text-indent:20px;font-weight:bold;font-family:monospace'>tricktreat outfits</span></li></ul>"
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/veracity0/code/gingerbread/", 
+  "author": "Veracity", 
+  "name": "Veracity's Gingerbread City", 
+  "forumThread": "http://kolmafia.us/showthread.php?21609", 
+  "shortDesc": "Automate the Gingerbread City", 
+  "category": "adventure", 
+  "longDesc": "Highly configurable script to allow automation of turns in the Gingerbread City, specifying the morning, afternoon, and night adventuring locations and the noon and midnight non-combats."
+ },
+ {
   "repo": "https://svn.code.sf.net/p/veracity0/code/meat-farm/", 
   "author": "Veracity", 
-  "name": "Veracity's Meat Farming Script", 
+  "name": "Veracity's Meat Farming", 
   "forumThread": "http://kolmafia.us/showthread.php?20933-My-personal-Meat-farming-script", 
   "shortDesc": "Farm Meat and perform daily tasks", 
   "category": "adventure", 
