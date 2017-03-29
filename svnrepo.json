@@ -279,6 +279,15 @@
   "longDesc": "This script will change kolMafia's default healing functions to make the most of your available items in hardcore/ronin or make the most of your meat if you have access to the mall. That makes this a great restoration improvement for both ascenders <i>and</i> farmers.<p style='border:1px solid red;text-indent:-20px;padding:5px 10px 5px 30px;margin-left:40px;margin-right:40px;'>To make this work automatically, you need to copy/paste the following line into the CLI:<br /><span style='font-weight:bold;font-family:monospace'>set recoveryScript = Universal_recovery.ash</span></p>"
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/veracity0/code/garden/", 
+  "author": "Veracity", 
+  "name": "Veracity's Garden Harvester", 
+  "forumThread": "http://kolmafia.us/showthread.php?21651", 
+  "shortDesc": "Harvest any kind of garden", 
+  "category": "action", 
+  "longDesc": "This script lets you configure what you want from all possible gardens and will detect garden type and pick the right thing."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/eodascensionchecklist/code/", 
   "author": "Eliteofdelete", 
   "name": "Ascension Checklist Handler", 
