@@ -144,6 +144,15 @@
   "longDesc": "Automates Halloween Trick or Treating. <ul style='margin:8 0 5 22'><li>Optional Configuration: Choose separate outfits named \"trick\" for combats and \"treat\" for non-combats. If you don't do this, then it will use your current equipment for all encounters.</li><li>If you encounter All-Hallow's Steve, it will abort so you can fight him yourself.</li><li>Check the mall prices for candies you acquire with your current equippable outfits if you type the following command in the CLI: <span style='text-indent:20px;font-weight:bold;font-family:monospace'>tricktreat outfits</span></li></ul>"
  }, 
  {
+  "repo": "https://svn.code.sf.net/p/unlock-dread2/code/", 
+  "author": "PazSox", 
+  "name": "Unlock Dreasylvania", 
+  "forumThread": "http://kolmafia.us/showthread.php?21545-Automatically-unlock-areas-of-Dreadsylvania", 
+  "shortDesc": "Unlocks Dread, Banishes Monsters, Offers help", 
+  "category": "adventure", 
+  "longDesc": "Unlocks Dreadsylvania zones one at a time, or multiple at once, Banishes Monsters, Offers help on how to setup bosses, and explains roughly how kisses work."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/veracity0/code/gingerbread/", 
   "author": "Veracity", 
   "name": "Veracity's Gingerbread City", 
