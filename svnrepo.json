@@ -396,6 +396,15 @@
   "longDesc": "Makes a snapshot of your character and display it on a website (where everyone can see it) with lots of boxes that you compulsively want to make green. <p>Yes, completionist torture..."
  },
  {
+  "repo": "https://svn.code.sf.net/p/standard-rollover-bonus/code/", 
+  "author": "PazSox", 
+  "name": "Standard Rollover Bonus", 
+  "forumThread": "http://kolmafia.us/showthread.php?21993-Standard-Rollover-Bonus", 
+  "shortDesc": "Informs you about gear you have for rollover", 
+  "category": "information", 
+  "longDesc": "This script checks all items you have which will give you bonus adventures for rollover. It checks on-hand <i>and storage</i> items for gear, familiar, chateau, & campground items.</p><p>It tells you how many of each item you have and the adventure bonus you will receive for it.</p><p>It will tell you how many pulls you have available. This is made primarily for <b>softcore</b> players. It works in <i>both</i> standard, and unrestricted ascensions."
+ }, 
+ {
   "repo": "https://svn.code.sf.net/p/rlbond86-mafia-scripts/code/cocktailmax/trunk/", 
   "author": "rlbond86", 
   "name": "Superhuman Cocktail Maximizer", 
