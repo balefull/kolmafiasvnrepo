@@ -252,14 +252,14 @@
   "longDesc": "This script will allow you to choose the proper dispensation for absolutely every item that may be in your inventory. You can tell it exactly how many to keep of any given item, or tell it to keep all of them. It can put items in the mall, send items as gifts, mix keys into pies, use gift certificates, stock your display case or autosell trash items. <i>And more!</i><p>Okay, this script is honestly a little bit insane. It's somewhat nuts to list a method of dealing with every single item I may own. I use this because I want to cleanse my inventory before every hardcore ascension. It takes a bit of effort to make the list of everything, but now my inventory can be malled in a flash. If anyone else wants to take the trouble of making their own list it would do the same for them."
  }, 
  {
-  "repo": "https://svn.code.sf.net/p/guyymafia/code/taleprank/", 
-  "author": "guyy", 
-  "name": "Tale Prank", 
-  "forumThread": "http://kolmafia.us/showthread.php?21303", 
-  "shortDesc": "Generates zany prank text", 
+  "repo": "https://svn.code.sf.net/p/rollover-management/code/", 
+  "author": "PazSox, bumcheekcity, hippoking & Th3y", 
+  "name": "Rollover Management", 
+  "forumThread": "http://kolmafia.us/showthread.php?22074-Rollover-Management", 
+  "shortDesc": "Maximize rollover turns and completes Daily Deeds", 
   "category": "action", 
-  "longDesc": "Makes randomized remixes of Crimbo Tale, Monster Manuel, and other in-game sources. Sends the ridiculous results to unsuspecting players in time-spinner pranks or brick messages."
- },
+  "longDesc": "Maximizes player for maximum turns with gear on hand.  Checks ALL daily deeds, Does all daily deeds that don't require user input.  Checks your Source Terminal for usage, and informs you if you're missing any upgrades.  Runs SNOJO Adventures if any are available, Runs 5 (free) adventures in the mines (if Unattended Minor skill is found), Checks Spacegate to see if any turns are remaining (or if it was even opened).  Grabs Cop dollars (if available), and Time Spinner items (if available)  Works in STANDARD, HARDCORE, and NON-STANDARD ascensions, and in AFTERCORE TOO!  Script will only spend a minimal amount of meat, just to buy a 'bag of park garbage', if none are in inventory, and charter is available.  And MUCH MUCH more!  It's easily customizable too!"
+ }, 
  {
   "repo": "https://svn.code.sf.net/p/fluxxdog-coding/code/trunk/superdrinks/", 
   "author": "fluxxdog", 
@@ -278,6 +278,15 @@
   "category": "action", 
   "longDesc": "This script tries to look over your sushi-eating options and make the best choices based on a given meat-per-adventure. It can be used directly or imported into another script as described in the associated thread."
  }, 
+ {
+  "repo": "https://svn.code.sf.net/p/guyymafia/code/taleprank/", 
+  "author": "guyy", 
+  "name": "Tale Prank", 
+  "forumThread": "http://kolmafia.us/showthread.php?21303", 
+  "shortDesc": "Generates zany prank text", 
+  "category": "action", 
+  "longDesc": "Makes randomized remixes of Crimbo Tale, Monster Manuel, and other in-game sources. Sends the ridiculous results to unsuspecting players in time-spinner pranks or brick messages."
+ },
  {
   "repo": "https://svn.code.sf.net/p/mafiarecovery/code/", 
   "author": "Bale", 
@@ -349,6 +358,15 @@
   "shortDesc": "Missing Manuel factoids!", 
   "category": "information", 
   "longDesc": "This scans Monster Manuel to get a list of monsters with missing factoids.<p>The script will ask if you want to display the full list. Selecting yes will list all monsters. Selecting no will only list the monsters for which you still need to hunt factoids. The display of monsters is sorted by area for your convenience."
+ }, 
+ {
+  "repo": "https://svn.code.sf.net/p/reference-plus/code/",
+  "author": "Zarqon",
+  "name": "Prefref Plus",
+  "forumThread": "http://kolmafia.us/showthread.php?22101",
+  "shortDesc": "Manager for all your ZLib settings and mafia prefs",
+  "category": "information",
+  "longDesc": "Your one-stop settings and preferences manager.  Conveniently search, configure, delete, revert to default, and understand your ZLib script settings and KoLmafia properties."
  }, 
  {
   "repo": "https://svn.code.sf.net/p/psychoseamatic/code/", 
